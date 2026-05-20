@@ -124,6 +124,16 @@ The firm that had built the apparatus earlier would have had a different story. 
 
 ---
 
+## LLM Exercises
+
+**Exercise 9-LLM-1.** Pick a tech company that grew from a founder-led startup to a publicly-traded firm with a recognized governance crisis (Uber, WeWork, Theranos, FTX). Ask an AI assistant to identify the specific points at which the founder-culture paradox this chapter describes became operative — moments at which the cultural strengths that built the company became the structural conditions that produced the crisis. Evaluate whether the AI's analysis is granular about the mechanism (specific decisions, specific governance gaps) or generic ("the founder lost touch").
+
+**Exercise 9-LLM-2.** Ask an AI assistant to evaluate a current advertising practice from a specific industry — pharmaceutical direct-to-consumer ads, in-app micro-transactions targeting children, financial-product advertising in vulnerable communities — using the chapter's asymmetry-of-persuasion framework. Have it identify the specific informational, cognitive, or structural asymmetry the practice exploits, and the regulatory or ethical constraints that would meaningfully address it. Evaluate whether the AI distinguishes asymmetry from mere preference-targeting, and whether its proposed constraints are operational rather than aspirational.
+
+**Exercise 9-LLM-3.** Give an AI assistant a current healthcare or insurance pricing dispute — a specific drug's surprise pricing, an insurance denial pattern, a hospital's billing practice — and ask it to apply the catastrophic-risk framework from this chapter. Have it distinguish the structural-problem analysis (the market cannot work efficiently when one party faces ruin) from the bad-actor analysis (this firm chose poorly). Evaluate whether the AI engages with the structural framing or defaults to attributing the outcome to individual greed. Then ask: what regulatory architecture would address the structural problem without preserving its current failure modes?
+
+---
+
 ## Chapter summary
 
 Three structural pressures, industry-specific but recognizable across sectors.
@@ -135,3 +145,24 @@ In advertising: the asymmetry of information and persuasive resources between th
 In insurance and healthcare: private-sector risk mechanisms work for dispersed, priceable risks and break down for catastrophic, correlated, or concentrated ones. The breakdown is predictable from the nature of the risk. The policy responses — federal backstops, regulated multipayer frameworks, single-payer systems — are the responses to the structural failure of the private mechanism. The system that produces the highest per-capita healthcare cost in the peer-country comparison also delivers the most revenue to providers per unit of care. Those two facts are connected, and the connection is the structure.
 
 The single idea that matters most: the pressures in each sector are predictable, and practitioners who know which pressures their sector concentrates will navigate them better than practitioners who don't. Good intentions are not sufficient. The structure responds to the pressure, not the intentions. The chapter's apparatus is for recognizing the pressure before it produces the Fowler-style disclosure, the Harvey-style coverage gap, or the Commonwealth Fund's last-place ranking. Recognition, in advance, is what preparation looks like.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Abraham Flexner** wrote the 1910 report that reshaped American medical education — closing roughly half of US medical schools, including most that admitted women, Black students, and immigrants. The report set the template for the modern professionalized field — for better and worse.
+
+**Run this:**
+
+```
+Who was Abraham Flexner, and how does the 1910 Flexner Report connect to how professions and their ethics are structured today, as we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Flexner Report"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to enumerate the specific schools the Flexner Report closed — and the demographic impact of those closures on the profession.
+- Ask it to compare the Flexner Report's effect on medicine with the more recent debates over professional licensing reform in law and accounting.
+
+What changes? What gets better? What gets worse?

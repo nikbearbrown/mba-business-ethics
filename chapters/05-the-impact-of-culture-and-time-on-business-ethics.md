@@ -157,3 +157,24 @@ That discipline is what this chapter is for.
 **Exercise 5-LLM-2.** Give an AI assistant the Petrobras Lava Jato case summary and ask it to evaluate the *jeitinho* defense using the chapter's thin-core/thick-local framework. Then ask it to identify a different country and a different case where a similar cultural defense was attempted. Assess whether the AI correctly applies the distinction or collapses it.
 
 **Exercise 5-LLM-3.** Ask an AI assistant to apply the five historical eras framework to a current industry of your choosing — name the industry explicitly. Ask it to identify which era's characteristic ethical question that industry is most urgently facing right now and why. Compare its analysis to your own. Where does it add insight? Where does it reach for the nearest available answer rather than the most accurate one?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Geert Hofstede** spent the 1970s studying IBM employees across 50 countries — producing the cultural-dimensions framework (power distance, individualism, uncertainty avoidance) that taught a generation of multinational managers to recognize that their assumptions weren't universal.
+
+**Run this:**
+
+```
+Who was Geert Hofstede, and how do his cultural dimensions connect to the impact of culture on business ethics we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Geert Hofstede"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to compare Hofstede's dimensions for two countries and predict where their business-ethics norms would diverge.
+- Ask it to discuss the major criticisms of Hofstede's framework — when does it oversimplify culture?
+
+What changes? What gets better? What gets worse?

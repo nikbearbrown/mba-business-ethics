@@ -129,8 +129,39 @@ The book has tried to give you the tools. What those tools build is the career y
 
 ---
 
+## LLM Exercises
+
+**Exercise 11-LLM-1.** Pick one of the three slow-erosion cases from this chapter — or substitute a more recent case you know better — and ask an AI assistant to map the specific small accommodations that, in sequence, produced the eventual outcome. The point is not to identify the dramatic moment of decision but to identify the seven or eight small choices that, individually defensible, compounded into the failure. Evaluate whether the AI engages with the sequence at the level of specific decisions, or whether it collapses the erosion into "leadership lost its way."
+
+**Exercise 11-LLM-2.** Ask an AI assistant to construct a corporate code of ethics for a hypothetical mid-sized firm in an industry of your choosing. Then critique what it produced through the chapter's how-firms-go-wrong framework: which provisions are aspirational and unmeasurable, which would survive a hostile reading by an employee weighing whether to report a concern, which name specific operational consequences for violations rather than abstract commitments. Revise the code with the AI until it would actually constrain conduct rather than performing constraint.
+
+**Exercise 11-LLM-3.** Have an AI assistant write its own version of a personal mission statement using the four-step framework from this chapter — five values, source of each, specific challenge each will face, specific action commitment for each. Then evaluate the result: are the values specific enough to constrain real decisions or generic enough to apply to anyone? Do the source identifications hold weight or read as filler? Are the action commitments measurable? Use the AI's result not as your own statement but as a comparison point — what does its version reveal about what makes a mission statement structural rather than aspirational?
+
+---
+
 ## Exercise 11.1
 
 Write your personal mission statement. Use the four-step framework from this chapter: identify five values that matter most to you, identify the source of each, identify the specific challenge each will face, commit to a specific action in support of each. No more than two paragraphs. Write it somewhere you can find it. Revise it annually for the rest of your working life. Use it the next time the apparatus has to be applied to a real decision.
 
 That is all.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Amartya Sen** built the "capability approach" to ethics and economics over four decades — arguing that human well-being should be measured by what people are capable of doing and being, not just what they consume. He won the 1998 Nobel Prize in Economics and reshaped both development economics and business ethics.
+
+**Run this:**
+
+```
+Who is Amartya Sen, and how does his capability approach connect to why ethics still matters in business, as the epilogue of this book argues? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Amartya Sen"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Sen's capability framework to one specific business decision — what new ethical considerations does it raise?
+- Ask it to compare Sen's capability approach with utilitarian and rights-based ethical frameworks.
+
+What changes? What gets better? What gets worse?

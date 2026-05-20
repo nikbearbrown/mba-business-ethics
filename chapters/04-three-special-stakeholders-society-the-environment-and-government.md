@@ -142,3 +142,34 @@ The single idea that carries forward: these three stakeholders cannot be backgro
 ### Challenge
 
 **Exercise 4.8.** *Open-ended.* Identify a current or recent case (within the last five years) in which a company, government regulator, and an affected community were all involved in an environmental or public-health harm. Write a 1,500–2,000 word analysis that: (a) maps all stakeholders, naming them specifically; (b) applies the moral minimum to the company's conduct; (c) diagnoses whether regulatory capture was present in the relevant agency, using the three-pressure framework from this chapter; (d) proposes one institutional change that would have reduced the probability of the harm. All factual claims must be traceable to named primary sources. Difficulty: hardest.
+
+
+---
+
+## LLM Exercises
+
+**Exercise 4-LLM-1.** Pick a publicly traded company in an industry whose product creates a recognized externality (a fast-food chain, a fossil-fuel producer, a social-media platform, a pharmaceutical company). Ask an AI assistant to identify the firm's three most consequential externalities — environmental, social, governmental — and to estimate, as specifically as it can, the magnitude of each. Then ask it to identify which externalities the firm currently internalizes (through pricing, regulation, voluntary disclosure) and which it does not. Evaluate whether the AI distinguishes operational externalities from product-use externalities, and whether it names specific data rather than generic "carbon footprint" claims.
+
+**Exercise 4-LLM-2.** Give an AI assistant the Volkswagen diesel emissions case and ask it to map the regulatory-capture dynamics that allowed the defeat-device strategy to persist for nearly a decade. Have it identify the specific failure points across the three layers (regulators, certification labs, internal company governance) and explain what structural change at each layer would have surfaced the fraud earlier. Evaluate whether the AI treats regulatory capture as a structural feature or as individual misconduct, and whether it engages with the differential outcomes between U.S. EPA enforcement and European regulator enforcement.
+
+**Exercise 4-LLM-3.** Ask an AI assistant to construct the strongest case that *no firm has any obligation* beyond shareholder value to society, the environment, or government — the Friedman position in its sharpest form. Then ask it to construct the strongest case that *the firm's obligations to these three stakeholders are equivalent to its obligations to shareholders*. Compare the two arguments. Identify where the AI's framing favors one position over the other. Then ask: which position has the more defensible empirical foundation in current scholarship, and what evidence would force a reasonable person to update?
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Donella Meadows** was the lead author of *The Limits to Growth* in 1972 — the systems-dynamics modeling study that put environmental constraint at the center of how serious people thought about long-term business and government policy. Her work made stakeholders out of ecosystems.
+
+**Run this:**
+
+```
+Who was Donella Meadows, and how does her systems-dynamics environmental work connect to the special-stakeholder categories — society, environment, government — we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Donella Meadows"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through one of the original 1972 Limits to Growth scenarios and what it predicted versus what we've observed.
+- Ask it about Meadows's "leverage points" essay — where small changes in a system can produce large effects.
+
+What changes? What gets better? What gets worse?

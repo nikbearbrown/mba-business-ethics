@@ -157,3 +157,24 @@ The thick details — what counts as *fair*, who is owed special duties, when an
 **Exercise 2-LLM-2.** Ask an AI assistant to identify a current business ethics case — something from the past two years — that maps onto one of the four frameworks. Have it explain the mapping. Then test the mapping yourself: does the case actually illuminate what the AI claims, or did the AI reach for the nearest available framework regardless of fit?
 
 **Exercise 2-LLM-3.** Give an AI assistant a thin brief: "I run a firm that sources materials from a country with documented human rights abuses. We employ 200 people locally and provide above-market wages. Apply the veil of ignorance to my sourcing decision." Evaluate whether the AI correctly applies the veil — does it genuinely shift the deliberator's position, or does it import the executive's perspective in disguise? Rewrite the response yourself if needed, correcting for any positional bias.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Hsün Tzu** (Xunzi) was a 3rd-century BCE Chinese Confucian philosopher who argued that human nature is intrinsically bad and must be shaped by ritual and ethical institutions — a view very different from the prevailing Confucian "human nature is good" school of Mencius. The debate is the foundation of two thousand years of East Asian ethics.
+
+**Run this:**
+
+```
+Who was Hsün Tzu, and how does his philosophy of ethics, ritual, and human nature connect to the history of ethics we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Xunzi (philosopher)"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to compare Xunzi's "nature is bad" view with Mencius's "nature is good" view — and what each says about business ethics today.
+- Ask it about how Xunzi's institutional emphasis maps onto modern corporate compliance programs.
+
+What changes? What gets better? What gets worse?

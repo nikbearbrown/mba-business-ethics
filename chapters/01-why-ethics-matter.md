@@ -178,3 +178,24 @@ The common mistake to watch for is the sophisticated-sounding shrug: *it depends
 **Exercise 1.D — The long game.** Ask the model to construct the "Option B" version of the Equifax case in detail — what the firm should have disclosed, when, to whom, in what form. Then ask the model to estimate, as specifically as possible, whether Option B would have been more or less expensive than what actually happened, accounting for litigation costs, regulatory fines, executive turnover, and long-term brand damage. Evaluate whether the model is able to reason about a long time horizon without reverting to vague claims about "reputation."
 
 **Exercise 1.E — Integrity and fragmentation.** Ask the model to generate three examples of workplace situations where a person might have strong integrity in one domain and fragmented integrity in another — where the ethical behavior in one room doesn't match the ethical behavior in another. Then ask: what does the Faris case suggest about how fragmentation develops over time? Does it arrive as a dramatic choice, or as a sequence of small accommodations? Evaluate whether the model's account of fragmentation is mechanistic and specific, or generic and motivational.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Mary Parker Follett** was an early-20th-century American organizational theorist who argued — decades before "business ethics" was a field — that conflict in firms should be resolved by *integration*, not domination or compromise. Peter Drucker called her the "prophet of management."
+
+**Run this:**
+
+```
+Who was Mary Parker Follett, and how does her work on conflict integration and organizational ethics connect to why ethics matter in business, as we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Mary Parker Follett"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Follett's "integration" approach to one current business ethics dilemma — what does it suggest doing?
+- Ask it about why Follett's work was forgotten for decades after her death — and how it was revived.
+
+What changes? What gets better? What gets worse?

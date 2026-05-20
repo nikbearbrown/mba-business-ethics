@@ -138,3 +138,34 @@ The single sentence that carries forward: loyalty is not silence, and the duty o
 ### Challenge
 
 **Exercise 7.8.** *Open-ended.* The chapter argues that the whistleblower legal regime — approximately twenty statutes, no comprehensive federal law — is "inadequate to its stated purpose." Design a comprehensive federal whistleblower statute for private-sector employees. Specify: the categories of covered misconduct, the evidence threshold required to file, the anti-retaliation protections and how they would be enforced, the reward structure (if any), and the mechanism for adjudicating disputed claims. Then identify the strongest argument against your design — from the employer's perspective, from a public-policy perspective, or both. The submission should be 1,500–2,000 words. No fabrication: any empirical claims must be traceable to named sources. Difficulty: hardest.
+
+
+---
+
+## LLM Exercises
+
+**Exercise 7-LLM-1.** Ask an AI assistant to evaluate a real employee-departure case where the duty of loyalty was contested — Anthony Levandowski's departure from Waymo to Uber, or a more recent case of your choosing — using the chapter's framework. Specifically, have it distinguish what the employee was legally obligated to do, what they were ethically obligated to do, and where those obligations diverge. Evaluate whether the AI conflates the two or holds them apart cleanly. Then ask: would the chapter's framework support the same conclusion the courts reached, or does it diverge?
+
+**Exercise 7-LLM-2.** Give an AI assistant the daily-conduct framework from this chapter — what loyalty looks like on a Tuesday — and ask it to construct three workplace situations where an employee's loyalty obligation might cut *against* the employer's stated preference. Examples might include refusing to participate in conduct the employee believes unethical, raising a concern through formal channels rather than going along, or declining to overstate progress on a project. For each situation, evaluate whether the AI treats loyalty as compliance with employer wishes or as something more substantive.
+
+**Exercise 7-LLM-3.** Ask an AI assistant to walk the breaking-point analysis from this chapter on a specific real whistleblower case — the Frances Haugen / Facebook disclosures, the Theranos disclosures, or a more recent case. Have it identify the specific moment at which the employee's continued loyalty would have crossed into complicity, and the structural conditions that should have surfaced the problem before that moment. Evaluate whether the AI's analysis is mechanistic and specific to the case's facts, or whether it defaults to general principles about whistleblower protection.
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Sherron Watkins** was the Enron vice president whose internal memo to Ken Lay in 2001 warned that the company would "implode in a wave of accounting scandals." Her letter became the textbook example of an employee navigating the duty of loyalty versus the duty of disclosure.
+
+**Run this:**
+
+```
+Who is Sherron Watkins, and how does her Enron whistleblowing connect to what employees owe employers — and what they owe the public — as we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Sherron Watkins"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through Watkins's 2001 memo to Lay — what specifically did she allege, and how did Enron respond?
+- Ask it to compare Watkins's case with one more recent whistleblower (Frances Haugen, Edward Snowden) — what carries over, what differs?
+
+What changes? What gets better? What gets worse?

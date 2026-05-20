@@ -205,3 +205,24 @@ The single idea that matters most: stakeholders are specific. *Customers* is not
 **Exercise 3-L2.** Paste a real corporate sustainability report (any publicly traded firm's most recent ESG or CSR disclosure) into a language model and prompt it: *"Identify the three largest gaps between the stated stakeholder commitments in this report and the operational practices that would be required to fulfill them. For each gap, describe what operational evidence would confirm whether the firm is on a path to close it or performing greenwashing."* Compare the model's gaps to what you can find in independent journalism about the same firm. Where did the model identify gaps the journalists found? Where did it miss them? What does that tell you about what the model is and isn't doing?
 
 **Exercise 3-L3.** Construct a prompt that asks a language model to take the role of a firm's stakeholder-analysis team and walk through the full sequence: map, classify by awareness level, apply the power-interest matrix, run a triple-bottom-line accounting, and identify greenwashing risk. Use a case the model does not know in detail — invent a scenario with specific details (named firm, named location, named affected parties, specific numbers). Evaluate whether the model's analysis is sensitive to those specific details or whether it produces a generic answer regardless of the particulars. What does the answer tell you about how to write stakeholder-analysis prompts that get specific rather than generic output?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **R. Edward Freeman** published *Strategic Management: A Stakeholder Approach* in 1984 — the book that established stakeholder theory as a serious alternative to Friedman's shareholder primacy. The framework you used to identify and prioritize stakeholders in this chapter is essentially his.
+
+**Run this:**
+
+```
+Who is R. Edward Freeman, and how does his stakeholder theory connect to the stakeholder definition and prioritization framework we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"R. Edward Freeman"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Freeman's framework to one specific company's stakeholders today — who counts, who doesn't, who's contested?
+- Ask it to compare Freeman's stakeholder approach with Milton Friedman's "the only social responsibility is to shareholders" thesis.
+
+What changes? What gets better? What gets worse?

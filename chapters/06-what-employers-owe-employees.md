@@ -152,6 +152,16 @@ Sharon Dunn's testimony is still the clearest statement of what the floor fails 
 
 ---
 
+## LLM Exercises
+
+**Exercise 6-LLM-1.** Give an AI assistant the four-pillar legal-floor framework from this chapter (FLSA, OSHA, Title VII, ADA, plus state-law overlays) and ask it to identify which of an employer's day-to-day decisions live below the floor (legally required), which live at the floor (legally permitted but ethically contested), and which live above the floor (voluntary commitments). Use a specific industry of your choosing — warehousing, hospitality, technology, healthcare. Evaluate whether the AI correctly identifies the floor-vs-above distinction or treats every legal requirement as automatically ethical and every voluntary practice as automatically ethical-extra.
+
+**Exercise 6-LLM-2.** Ask an AI assistant to evaluate a real workplace harassment case — *Vance v. Ball State University* (2013) and the 2020 *Bostock* combined frame, or a more recent case of your choosing — through the operative-culture lens this chapter emphasizes. Specifically, ask it to identify the gap between the firm's stated harassment policy and its operative culture, and to name the structural changes (not training programs) that would close the gap. Evaluate whether the AI distinguishes culture from compliance or conflates them.
+
+**Exercise 6-LLM-3.** Construct a prompt that asks an AI to evaluate a specific employer-monitoring practice — keystroke logging, GPS tracking of fleet vehicles, monitoring of personal-device communications under a BYOD policy — using the chapter's privacy/voice/due-process framework. The practice should be one that is currently legal in most jurisdictions. Ask the AI to identify the strongest ethical defense of the practice and the strongest ethical objection, and to recommend the employer-side limits that would make the practice ethically defensible. Evaluate whether the AI moves past "balancing employer interests with employee privacy" to specific operational constraints (notice, scope, retention, consequences).
+
+---
+
 ## Chapter summary
 
 The legal floor of employer obligation — OSHA, Title VII and the EEOC framework, WARN, ECPA — covers safety, discrimination, layoff notice, and privacy. It does not cover wage adequacy, work-life balance, or operative culture. Those are the space above the floor, and that space is where an employer's ethical obligations live.
@@ -163,3 +173,24 @@ Four pay gaps — minimum wage, productivity-pay, CEO-to-worker, gender — tell
 The employee's interests in privacy, voice, and due process are real claims, not sentimental ones. Monitoring beyond what legitimate business purposes require fails the *Quon* test. Unionization and codetermination structures that give workers input into the conditions of their work correlate with higher productivity and lower pay inequality in the economies that have them.
 
 The single idea that matters most: the legal regime is the floor, not the ceiling. The firms that operate at the floor are the firms whose long-run performance is, on the available evidence, weakest. The firms that operate above it — with operative culture, with compensation that shares productivity gains, with monitoring that stays proportional — are the ones with the strongest workforces and the most durable returns. The argument is not that ethics costs profit. The argument is that ethics, on the right time horizon, *is* profit.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Crystal Eastman** drafted the first US workers' compensation law in 1909 — after her own investigation into workplace deaths in Pittsburgh steel mills proved that "industrial accidents" were predictable and preventable. She co-founded the ACLU.
+
+**Run this:**
+
+```
+Who was Crystal Eastman, and how does her work on workers' compensation and labor protections connect to what employers owe employees, as we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Crystal Eastman"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through Eastman's 1909 Pittsburgh Survey methodology — how did she document workplace deaths that previously went unrecorded?
+- Ask it about Eastman's later role drafting the Equal Rights Amendment and co-founding the ACLU.
+
+What changes? What gets better? What gets worse?

@@ -126,3 +126,34 @@ The transitions will happen. They are happening. The ethical question is not whe
 ### Challenge
 
 **Exercise 10.8.** *Open-ended.* Design a corporate policy for a mid-sized U.S. firm (500–2,000 employees, knowledge-work-heavy, currently considering a major AI deployment affecting approximately 150 positions) that addresses all three of the chapter's transitions simultaneously: the hybrid-work flexibility question, the displacement and retraining question, and the AI-disclosure and liability question. The policy should specify: the hybrid-work structure and the visibility-bias mitigation it builds in; the approach to affected positions (attrition, buyouts, redeployment, retraining — with specific terms); and the AI-disclosure and documentation standards for the deployment. Identify the strongest objection to your policy from each of three stakeholders — affected employees, the board, and the firm's customers — and state how the policy addresses each objection. The submission should be 1,500–2,000 words. All empirical claims must cite named sources. Difficulty: hardest.
+
+
+---
+
+## LLM Exercises
+
+**Exercise 10-LLM-1.** Ask an AI assistant to evaluate the ethical trade-offs of a specific current flexibility arrangement — a major company's return-to-office mandate, a platform-labor classification decision, a four-day-workweek pilot. Have it identify the specific stakeholders affected and the cost shift that the arrangement performs (who bears the cost of flexibility; who captures the benefit). Evaluate whether the AI engages with the cost-shift specifically or treats the arrangement as a neutral choice between equally weighted preferences.
+
+**Exercise 10-LLM-2.** Give an AI assistant a specific industry currently experiencing automation-driven displacement — radiology, legal document review, customer service, transportation — and ask it to estimate the magnitude and timing of the displacement. Have it identify the specific worker populations affected and propose a transition framework that would meaningfully address displacement without simply slowing the technology adoption. Evaluate whether the AI's framework is operationally specific (which retraining, which income support, which timeline) or whether it defaults to vague calls for "supporting affected workers."
+
+**Exercise 10-LLM-3.** Ask an AI assistant to identify a specific contemporary AI-deployment decision in a high-stakes domain (hiring, lending, medical triage, criminal-justice risk assessment, military targeting) and to apply the chapter's accountability framework. Have it identify who is accountable for which kinds of failure, what evidence would be needed to assign responsibility, and where the current accountability infrastructure has gaps. Evaluate whether the AI engages with the specific accountability question (who is liable when the system fails, and on what grounds) or defaults to general calls for "human oversight" without specifying what oversight produces what outcome.
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Shoshana Zuboff** wrote *In the Age of the Smart Machine* in 1988 — the first serious account of how digital surveillance would transform the workplace, decades before "surveillance capitalism" became a household phrase. Her later work made the case explicit.
+
+**Run this:**
+
+```
+Who is Shoshana Zuboff, and how does her work on workplace technology and surveillance capitalism connect to the changing work environments we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Shoshana Zuboff"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Zuboff's framework to one specific 2020s workplace technology (employee monitoring, productivity AI, biometric scanning) — what does it predict?
+- Ask it to discuss the criticisms of Zuboff's "surveillance capitalism" thesis from technology scholars.
+
+What changes? What gets better? What gets worse?

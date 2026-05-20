@@ -123,3 +123,24 @@ Aimee Stephens did not live to see the protection her case produced. The firms t
 **Exercise 8-LLM-2.** Give an AI assistant the Verizon no-fault attendance settlement and ask it to construct the accommodation policy Verizon should have had in place. Evaluate whether the AI's policy satisfies all three prongs of the accommodation framework — reasonable, individualized, arrived at through interactive process. Identify any gap.
 
 **Exercise 8-LLM-3.** Ask an AI assistant to assess the current status of the Humane Cosmetics Act or the Nonhuman Rights Project litigation. Evaluate whether the AI's response is current, appropriately uncertain about contested questions, or overconfident about the direction of the law. Then ask it to identify what legal development in the next five years would most significantly change the operating environment for U.S. businesses in this space.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Sojourner Truth** delivered her "Ain't I a Woman?" speech at the 1851 Women's Rights Convention in Ohio — extending the language of rights and dignity to both Black people and women in a country that excluded both. Her insistence on intersecting rights claims still shapes modern business-ethics frameworks on inclusion.
+
+**Run this:**
+
+```
+Who was Sojourner Truth, and how does her advocacy for intersecting rights connect to the recognition and respect of rights we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Sojourner Truth"** on Wikipedia.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to compare the contested versions of the "Ain't I a Woman?" speech — what we know about what Truth actually said.
+- Ask it about Truth's lawsuit against a white man who had illegally sold her son into slavery in Alabama — one of the first such successful suits by a Black woman.
+
+What changes? What gets better? What gets worse?
