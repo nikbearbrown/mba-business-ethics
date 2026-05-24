@@ -15,7 +15,8 @@ The honest answer, on the available evidence, is this: Gupta had spent forty yea
 
 That slow movement of the boundary is what this entire book has been about. This chapter returns to the question Chapter 1 opened with — *why does ethics matter* — with the full apparatus now built, and tries to answer it in a form the reader can carry into the rest of their working life.
 
-<!-- → [INFOGRAPHIC: Three-panel "before and after" timeline, one panel per failure case. Panel 1 — Gupta: left side "McKinsey global managing director, Goldman Sachs board member, cofounded Indian School of Business, 1994–2009"; right side "federal conviction on three counts securities fraud, two years federal prison, $5M fine, 2012"; elapsed time marked as three years from disclosure to verdict, forty years of boundary drift before it. Panel 2 — GM ignition switch: left side "defect known internally, 2002"; right side "$900M federal settlement, 124+ deaths, 2.6M vehicles recalled, 2014–2015"; elapsed time twelve years of institutional "not yet." Panel 3 — Swanson: left side "Raytheon CEO publishes ethics maxims booklet, 2004"; right side "USA Today plagiarism investigation, booklet withdrawn, compensation reduced, 2006"; elapsed time two years from publication to exposure. Caption beneath all three: "In every case, the gap is years or decades. Reputations are slow to build and fast to lose, and the mechanism is always a slow accumulation, not a single catastrophe." Reader should notice all three panels share the same structure: a reputation built over a long arc, a failure accelerated through accumulated small steps, a consequence that arrives fast.] -->
+!["before and after" timeline, one panel per failure](images/11-epilogue-why-ethics-still-matter-fig-01.png)
+*Figure 11.1 — "before and after" timeline, one panel per failure*
 
 ---
 
@@ -39,7 +40,17 @@ Each of the three failures is also a different kind of erosion, which is why it 
 
 The long-game horizon from Chapter 1 is the second instrument. Gupta's call would not have been made if he had run Warren Buffett's *front-page test* on the correct time horizon — the horizon over which the conviction, the sentencing, and the reputation's failure to recover actually play out. The GM disclosure delay would not have continued if the firm had honestly run the long-game calculation on what twelve years of cumulative non-disclosure would eventually cost. Both actors were running short-horizon calculations. Neither was running the correct one.
 
-<!-- → [TABLE: Three-column case-to-lens diagnostic. Rows: Gupta, GM ignition switch, Swanson plagiarism. Columns: mechanism of erosion (single boundary-crossing after decades of accumulated small favors; institutional "not yet" compounded across twelve years; gradual intellectual borrowing framed as commonplace); which lens catches it earliest (virtue ethics — what kind of person am I becoming?; utilitarianism — what is the full harm count when honestly totaled?; Kant's categorical imperative — could I universalize this rule?); what running the apparatus before the decision would have changed (the call is not made because the pattern of boundary-drift is visible; disclosure happens before 124 deaths because the sum is honestly counted annually; the booklet is not published because the universalized version of the rule fails immediately). Reader should use this table to see that the four lenses are not interchangeable: each is calibrated to a different failure mode, which is why all four must be run.] -->
+| mechanism of erosion (single boundary-crossing after decades of accumulated small favors |
+| --- |
+| Gupta, GM ignition switch, Swanson plagiarism. Columns: mechanism of erosion (single boundary-crossing after decades of accumulated small favors |
+| institutional "not yet" compounded across twelve years |
+| gradual intellectual borrowing framed as commonplace |
+| which lens catches it earliest (virtue ethics |
+| utilitarianism |
+| Kant's categorical imperative |
+| what running the apparatus before the decision would have changed (the call is not made because the pattern of boundary-drift is visible |
+| disclosure happens before 124 deaths because the sum is honestly counted annually |
+| the booklet is not published because the universalized version of the rule fails immediately). Reader should use this table to see that the four lenses are not interchangeable: each is calibrated to a different failure mode, which is why all four must be run. |
 
 ---
 
@@ -57,7 +68,11 @@ The third is recovery. When ethical failures occur — and they will, in any fir
 
 The Walmart case is instructive on the gap side. As of 2017, Walmart had approximately 2.3 million employees and annual revenue approaching $500 billion. Its 2007 slogan shift from *Always Low Prices* to *Save Money. Live Better.* was an explicit cultural commitment. The firm's actual operations have, on the documented evidence, fallen short across multiple dimensions: employee benefits, foreign-worker rights, child-labor violations, wage theft, a substantial fraction of the U.S. workforce on public assistance. The Walton family's net worth increased substantially during the period these issues were litigated. The gap between the slogan and the operations is not accidental; it is the cumulative product of decisions at the top that did not run the apparatus seriously.
 
-<!-- → [TABLE: Tone-at-the-top diagnostic — three rows, one per mechanism. Columns: mechanism name, description, what healthy operation looks like, what degraded operation looks like, diagnostic signal a job-candidate or new employee can observe. Row 1 — Modeling: leaders' daily decisions observed and imitated; leaders return overpayments, disclose conflicts, name failures honestly; leaders keep overpayments, hide conflicts, blame downward; watch what the most senior person in the room does when no external consequence is present. Row 2 — Selection: compensation, promotion, and retention systems determine what kind of leader the firm keeps; ethical conduct is an explicit criterion in promotions; most aggressive revenue producer advances regardless of conduct; ask who got promoted in the last three years and why. Row 3 — Recovery: response to failure shapes subsequent norms; senior leaders held accountable for failures they owned; senior leaders protected from consequences; ask what happened the last time something went wrong at the top. Caption: "This table is a diagnostic, not a ranking. Use it when evaluating a firm you are considering joining, working in, or leading." Reader should notice the diagnostic signal column — these are questions you can actually ask in an interview or observe in your first month.] -->
+| mechanism name | description | what healthy operation looks like | what degraded operation looks like | diagnostic signal a job-candidate or new employee can observe |
+| --- | --- | --- | --- | --- |
+| for failures they owned | The pattern becomes easy to misuse or overlook. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| senior leaders protected from consequences | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| ask what happened the last time something went wrong at the top. Caption: "This table is a diagnostic, not a ranking. Use it when evaluating a firm you are considering joining, working in, or leading." Reader should notice the diagnostic signal column | these are questions you can actually ask in an interview or observe in your first month. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 Now a contrast, to make the other direction legible.
 
@@ -87,7 +102,12 @@ A four-step framework for constructing one.
 
 The statement does not protect you from every bad decision. It does mean that the bad decision, when it comes, will have to fight its way past something rather than encountering nothing. The difference between the Gupta who made the call and the Gupta who could have declined it was not capability or intelligence. It was whether something was in the way. The personal mission statement is the thing you put in the way.
 
-<!-- → [TABLE: Personal mission statement working template — five rows, one per value. Columns: Value (name it), Source (where did you learn this value — specific person, place, tradition, text), Challenge (the specific situation where this value will be tested — name it concretely), Committed action (not "I will try" but "I will do X when Y occurs"). Pre-filled example row: Value — honesty; Source — a mentor who returned a client overpayment when she could have kept it; Challenge — being asked by a manager to misrepresent a project's status in a report; Committed action — I will tell my manager I am unwilling to misrepresent the status, and I will document the request in writing. Reader: this is the actual working document for Exercise 11.1. Fill it in before closing the book.] -->
+| Value (name it) | Source (where did you learn this value — specific person | place | tradition | text) |
+| --- | --- | --- | --- | --- |
+| Value | honesty | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Source | a mentor who returned a client overpayment when she could have kept it | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Challenge | being asked by a manager to misrepresent a project's status in a report | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Committed action | I will tell my manager I am unwilling to misrepresent the status, and I will document the request in writing. Reader: this is the actual working document for Exercise 11.1. Fill it in before closing the book. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -109,7 +129,8 @@ The apparatus does not produce a single answer on demand. It produces a structur
 
 The decision that stays invisible — made on instinct, under pressure, without the apparatus running — is the decision that, accumulated over forty years, produces the Gupta call. Not because any single decision is Gupta's call. Because the accumulation is.
 
-<!-- → [DIAGRAM: A single-page decision-flow reference card for running the full apparatus. Five sequential nodes, connected by arrows. Node 1 — "Three lenses (Ch. 1): What does each reveal? Are they aligned or in tension? What does Buffett's reporter write on the correct time horizon?" Node 2 — "Four traditions (Ch. 2): Virtue — what kind of person am I becoming? Utilitarianism — honest harm count across all parties? Kant — can I universalize this? Rawls — would I choose this behind the veil of ignorance?" Node 3 — "Stakeholder map (Ch. 3): Who is affected? Are they all named? Have I asked what each wants?" Node 4 — "Applicable frameworks (Chs. 4–10): Does the decision involve society, environment, government, cross-cultural context, employment duties, industry-specific pressure, or transitional context? If yes, apply the relevant chapter." Node 5 — "Decision you can be held accountable for." Arrow from Node 5 back to Node 1 labeled "Annual review — run the apparatus on your mission statement, not just on active decisions." Caption: "This is not a checklist. It is a habit. The Gupta call was never run through any of these nodes. That is the mechanism."] -->
+![This is not a checklist. It is a habit. The Gupta call was never run through any of these nodes. That is the mechanism.](images/11-epilogue-why-ethics-still-matter-fig-02.png)
+*Figure 11.2 — A single-page decision-flow reference card for running the*
 
 ---
 
@@ -165,3 +186,29 @@ Who is Amartya Sen, and how does his capability approach connect to why ethics s
 - Ask it to compare Sen's capability approach with utilitarian and rights-based ethical frameworks.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 11.1 — "before and after" timeline, one panel per failure
+
+Create a standalone D3 v7 HTML file for Figure "before and after" timeline, one panel per failure. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Three-panel "before and after" timeline, one panel per failure case. Panel 1 — Gupta: left side "McKinsey global managing director, Goldman Sachs board member, cofounded Indian School of Business, 1994–2009"; right side "federal conviction on three counts securities fraud, two years federal prison, $5M fine, 2012"; elapsed time marked as three years from disclosure to verdict, forty years of boundary drift before it. Panel 2 — GM ignition switch: left side "defect known internally, 2002"; right side "$900M federal settlement, 124+ deaths, 2.6M vehicles recalled, 2014–2015"; elapsed time twelve years of institutional "not yet." Panel 3 — Swanson: left side "Raytheon CEO publishes ethics maxims booklet, 2004"; right side "USA Today plagiarism investigation, booklet withdrawn, compensation reduced, 2006"; elapsed time two years from publication to exposure. Caption beneath all three: "In ev
+
+> Reference implementation: `d3/11-epilogue-why-ethics-still-matter-fig-01.html`
+
+---
+
+### Figure 11.2 — A single-page decision-flow reference card for running the
+
+Create a standalone D3 v7 HTML file for Figure A single-page decision-flow reference card for running the. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A single-page decision-flow reference card for running the full apparatus. Five sequential nodes, connected by arrows. Node 1 — "Three lenses (Ch. 1): What does each reveal? Are they aligned or in tension? What does Buffett's reporter write on the correct time horizon?" Node 2 — "Four traditions (Ch. 2): Virtue — what kind of person am I becoming? Utilitarianism — honest harm count across all parties? Kant — can I universalize this? Rawls — would I choose this behind the veil of ignorance?" Node 3 — "Stakeholder map (Ch. 3): Who is affected? Are they all named? Have I asked what each wants?" Node 4 — "Applicable frameworks (Chs. 4–10): Does the decision involve society, environment, government, cross-cultural context, employment duties, industry-specific pressure, or transitional context? If yes, apply the relevant chapter." Node 5 — "Decision you can be held accountable for." Ar
+
+> Reference implementation: `d3/11-epilogue-why-ethics-still-matter-fig-02.html`

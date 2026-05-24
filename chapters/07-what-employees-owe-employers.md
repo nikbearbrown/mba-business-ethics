@@ -9,7 +9,8 @@ She also said, in subsequent interviews, that she would never again hold a job i
 
 That sentence is the starting point for this chapter. It tells you that employees owe their employers a duty of loyalty — and it tells you, simultaneously, that the duty of loyalty is not the only thing an employee owes. Watkins owed Enron her honest service. She also owed something to the shareholders, to the employees whose retirement savings were about to disappear, to the public. When those two obligations collided, she had to choose. The chapter is about that structure — what the duties are, how they work, and what the choosing looks like when the duties come apart.
 
-<!-- → [INFOGRAPHIC: A two-column ledger layout. Left column header: "Duties owed to the employer." Rows: loyal and faithful service; confidentiality of trade secrets and internal information; brand-consistent conduct; financial integrity (no insider trading, no bribery). Right column header: "Duties owed beyond the employer." Rows: honesty in regulatory and securities filings; non-participation in ongoing fraud; disclosure obligations under whistleblower statutes; duties to shareholders, employees, and the public harmed by active wrongdoing. A bold center dividing line. Caption beneath: "The chapter's central tension — when the two columns disagree, the employee must choose." Reader should notice that both columns contain real obligations; the difficulty is not choosing between duty and cowardice, but between two genuine duties.] -->
+![A two-column ledger layout](images/07-what-employees-owe-employers-fig-01.png)
+*Figure 7.1 — A two-column ledger layout*
 
 ---
 
@@ -29,7 +30,8 @@ The second is the shift from defined-benefit to defined-contribution retirement.
 
 The third is the documented mobility norm. Glassdoor data show that job-changers earn roughly five percentage points higher annual salary increases than those who stay; workers under thirty-five now expect to change jobs frequently. The rational strategy, inside the labor market that the structural shifts created, is mobility.
 
-<!-- → [INFOGRAPHIC: A three-panel diagram tracing the erosion of long-tenure loyalty norms. Panel 1 — "At-will employment": 85% of U.S. private-sector workers; caption "The firm's commitment to the employee is conditional by law." Panel 2 — "Defined-benefit → defined-contribution": timeline bar 1940s–1970s (pension, rewarded tenure) vs. 1980s–present (401(k), portable assets); caption "The financial reward for staying was eliminated." Panel 3 — "Mobility as norm": Glassdoor data point — job-changers earn ~5 percentage points higher annual salary increases; caption "The rational strategy inside this labor market is departure." Footer note: "All three shifts were initiated by employers, not employees." Reader should notice the asymmetry: the firm retained the legal duty of loyalty while eliminating the structural conditions that made mutual long-tenure loyalty viable.] -->
+![A three-panel diagram tracing the erosion of long-tenure](images/07-what-employees-owe-employers-fig-02.png)
+*Figure 7.2 — A three-panel diagram tracing the erosion of long-tenure*
 
 The result is this: the legal duty — Bidwell's first half — is unchanged. The cultural texture of the relationship inside which the legal duty operates is entirely different. The firm asks for loyalty in the first-half sense while having systematically dismantled the conditions that made the second-half sense viable. Both sides know this. The relationship is honest about its own transactionality in a way that the language of "loyalty" obscures.
 
@@ -45,7 +47,20 @@ A *nondisparagement clause* prohibits public criticism of the firm after departu
 
 All four clauses share a structure: the firm protects a legitimate interest (trade secrets, customer relationships, brand reputation), and the enforcement regime is the question. The employee who signs without reading has agreed to terms whose consequences may materialize years later. The time to understand them is before signing, when they are theoretically negotiable, rather than after departure, when they are not.
 
-<!-- → [TABLE: Four-row reference table for restrictive covenants. Columns: Clause type, What it prohibits, Typical enforceability, Notable exceptions or failure cases. Rows: Non-compete (post-employment competition in defined area/period; uneven, highly state-dependent; Jimmy John's hourly-worker case; California void-outright rule); NDA (disclosure of confidential information; widely enforceable; protection evaporates if secret is publicly leaked); Nonsolicitation (recruiting firm's customers or colleagues; stronger than non-compete, more targeted harm); Nondisparagement (public criticism of firm after departure; contested; may conflict with whistleblower statutes). Reader should notice that enforceability is not uniform across the four types — NDAs are the most reliably enforceable, non-competes the least, and the employee should verify state law before signing any of the four.] -->
+| Clause type | What it prohibits | Typical enforceability | Notable exceptions or failure cases |
+| --- | --- | --- | --- |
+| Non-compete (post-employment competition in defined area | period | A concrete checkpoint for applying the chapter concept. | The pattern becomes easy to misuse or overlook. |
+| uneven, highly state-dependent | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | The pattern becomes easy to misuse or overlook. |
+| Jimmy John's hourly-worker case | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | The pattern becomes easy to misuse or overlook. |
+| California void-outright rule | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | The pattern becomes easy to misuse or overlook. |
+| NDA (disclosure of confidential information | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | The pattern becomes easy to misuse or overlook. |
+| widely enforceable | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | The pattern becomes easy to misuse or overlook. |
+| protection evaporates if secret is publicly leaked | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | The pattern becomes easy to misuse or overlook. |
+| Nonsolicitation (recruiting firm's customers or colleagues | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | The pattern becomes easy to misuse or overlook. |
+| stronger than non-compete, more targeted harm | A specific, evidence-linked version that readers can verify. | A concrete checkpoint for applying the chapter concept. | The pattern becomes easy to misuse or overlook. |
+| Nondisparagement (public criticism of firm after departure | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | The pattern becomes easy to misuse or overlook. |
+| contested | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | The pattern becomes easy to misuse or overlook. |
+| may conflict with whistleblower statutes). Reader should notice that enforceability is not uniform across the four types | NDAs are the most reliably enforceable, non-competes the least, and the employee should verify state law before signing any of the four. | A concrete checkpoint for applying the chapter concept. | The pattern becomes easy to misuse or overlook. |
 
 ---
 
@@ -87,7 +102,20 @@ The whistleblower's decision is the most consequential an employee can face. The
 
 The most consequential single mechanism for the employee who has exhausted internal remedies is the *False Claims Act* of 1863, passed to address fraud against the Union government during the Civil War. The Act's *qui tam* provision allows a private individual — the *relator* — to file a lawsuit on behalf of the government against a party that has submitted false claims for federal payment. If the government joins the case and the claims are confirmed, the relator receives between fifteen and thirty percent of the recovery. Bradley Birkenfeld received $104 million from the IRS in 2012 for his disclosures about UBS's systematic tax-evasion services for U.S. clients. John Kopchinski and nine other former Pfizer employees shared $102 million for exposing illegal off-label drug promotion; Kopchinski's individual share was approximately $50 million.
 
-<!-- → [TABLE: Whistleblower case comparison — Watkins, Krawcheck, Birkenfeld. Columns: Person, Disclosure type, Internal or external first, CEO/senior support, Financial outcome, Career outcome. Rows: Watkins (Enron accounting fraud; internal memo to chairman; no support; no direct financial award; career in corporate finance effectively ended; now ethics speaker); Krawcheck (Smith Barney client reimbursement, then Stable Value Fund; internal to CEO; CEO supported at BofA; no FCA award; reorganized out after CEO transition; founded Ellevest); Birkenfeld (UBS Swiss tax evasion; external to IRS; no internal channel viable; $104 million IRS award; served 31 months in federal prison despite cooperation; barred from securities industry). Reader should notice: financial reward does not track career outcome; all three experienced career disruption; the Krawcheck variant shows internal reporting can work when the channel is not compromised.] -->
+| Person | Disclosure type | Internal or external first | CEO | senior support |
+| --- | --- | --- | --- | --- |
+| Watkins (Enron accounting fraud | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| internal memo to chairman | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| no support | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| no direct financial award | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| career in corporate finance effectively ended | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| now ethics speaker | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Krawcheck (Smith Barney client reimbursement, then Stable Value Fund | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| internal to CEO | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| CEO supported at BofA | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| no FCA award | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| reorganized out after CEO transition | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| founded Ellevest | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 The financial rewards are real. The career consequences are also real, and they are the part the rewards tend to obscure. The whistleblower research literature is consistent: the modal post-disclosure career outcome for a confirmed and rewarded whistleblower involves substantial reduction in industry employability, regardless of outcome, regardless of award. Watkins's experience — public testimony, press interviews, a career as an ethics speaker — is not exceptional. It is representative.
 
@@ -97,7 +125,8 @@ The Krawcheck variant matters because it shows that internal reporting can work 
 
 The chapter's operational recommendation is the sequence the research consistently endorses: internal reporting first, with documentation, before any external disclosure. The sequence is not about procedural courtesy. It is about building the documentary record that the legal protections require. A whistleblower who went external before exhausting internal channels has a materially weaker case under most of the applicable statutes. A whistleblower who documented the internal failure before going external has a materially stronger one.
 
-<!-- → [DIAGRAM: A decision-tree flowchart for the whistleblower sequence. Node 1: "Employee discovers possible violation." Branch: "Is the internal reporting channel compromised?" → Yes: go to Node 3. → No: go to Node 2. Node 2: "Report internally, in writing, with documentation." Branch: "Does the firm remediate?" → Yes: "Document resolution. Matter closed." → No: go to Node 3. Node 3: "Internal channel exhausted or compromised — evaluate external disclosure." Sub-branches: "Identify applicable statute (FCA, SOX, Dodd-Frank, sector-specific)"; "Consult a whistleblower attorney"; "Assess evidence threshold for credible disclosure"; "Assess personal capacity for career disruption." Terminal node: "File with relevant agency, with documentary record of internal failure." Caption: "The sequence is not courtesy — it is the evidentiary foundation the legal protections require." Reader should notice the decision tree begins with internal reporting, not external; the external path is the result of internal failure, not the starting point.] -->
+![The sequence is not courtesy — it is the evidentiary foundation the legal protections require.](images/07-what-employees-owe-employers-fig-03.png)
+*Figure 7.3 — A decision-tree flowchart for the whistleblower sequence*
 
 ---
 
@@ -169,3 +198,37 @@ Who is Sherron Watkins, and how does her Enron whistleblowing connect to what em
 - Ask it to compare Watkins's case with one more recent whistleblower (Frances Haugen, Edward Snowden) — what carries over, what differs?
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 7.1 — A two-column ledger layout
+
+Create a standalone D3 v7 HTML file for Figure A two-column ledger layout. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A two-column ledger layout. Left column header: "Duties owed to the employer." Rows: loyal and faithful service; confidentiality of trade secrets and internal information; brand-consistent conduct; financial integrity (no insider trading, no bribery). Right column header: "Duties owed beyond the employer." Rows: honesty in regulatory and securities filings; non-participation in ongoing fraud; disclosure obligations under whistleblower statutes; duties to shareholders, employees, and the public harmed by active wrongdoing. A bold center dividing line. Caption beneath: "The chapter's central tension — when the two columns disagree, the employee must choose." Reader should notice that both columns contain real obligations; the difficulty is not choosing between duty and cowardice, but between two genuine duties.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrativ
+
+> Reference implementation: `d3/07-what-employees-owe-employers-fig-01.html`
+
+---
+
+### Figure 7.2 — A three-panel diagram tracing the erosion of long-tenure
+
+Create a standalone D3 v7 HTML file for Figure A three-panel diagram tracing the erosion of long-tenure. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A three-panel diagram tracing the erosion of long-tenure loyalty norms. Panel 1 — "At-will employment": 85% of U.S. private-sector workers; caption "The firm's commitment to the employee is conditional by law." Panel 2 — "Defined-benefit → defined-contribution": timeline bar 1940s–1970s (pension, rewarded tenure) vs. 1980s–present (401(k), portable assets); caption "The financial reward for staying was eliminated." Panel 3 — "Mobility as norm": Glassdoor data point — job-changers earn ~5 percentage points higher annual salary increases; caption "The rational strategy inside this labor market is departure." Footer note: "All three shifts were initiated by employers, not employees." Reader should notice the asymmetry: the firm retained the legal duty of loyalty while eliminating the structural conditions that made mutual long-tenure loyalty viable.. Use the described data shape and l
+
+> Reference implementation: `d3/07-what-employees-owe-employers-fig-02.html`
+
+---
+
+### Figure 7.3 — A decision-tree flowchart for the whistleblower sequence
+
+Create a standalone D3 v7 HTML file for Figure A decision-tree flowchart for the whistleblower sequence. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A decision-tree flowchart for the whistleblower sequence. Node 1: "Employee discovers possible violation." Branch: "Is the internal reporting channel compromised?" → Yes: go to Node 3. → No: go to Node 2. Node 2: "Report internally, in writing, with documentation." Branch: "Does the firm remediate?" → Yes: "Document resolution. Matter closed." → No: go to Node 3. Node 3: "Internal channel exhausted or compromised — evaluate external disclosure." Sub-branches: "Identify applicable statute (FCA, SOX, Dodd-Frank, sector-specific)"; "Consult a whistleblower attorney"; "Assess evidence threshold for credible disclosure"; "Assess personal capacity for career disruption." Terminal node: "File with relevant agency, with documentary record of internal failure." Caption: "The sequence is not courtesy — it is the evidentiary foundation the legal protections require." Reader should notice the 
+
+> Reference implementation: `d3/07-what-employees-owe-employers-fig-03.html`

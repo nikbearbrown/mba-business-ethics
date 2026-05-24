@@ -9,7 +9,8 @@ Eight hundred million is a number worth sitting with for a moment. It is roughly
 
 The chapter is about the work environments those workers inhabit — and will inhabit — and the ethical questions the transitions raise. The argument is not, primarily, about technology. It is about how the costs and benefits of transitions are distributed across stakeholders: workers, firms, customers, taxpayers, communities. Technology is the mechanism. Distribution is the ethics.
 
-<!-- → [INFOGRAPHIC: A horizontal timeline from 1960 to 2030, labeled "McDonald's workforce displacement in waves." Five annotated bands: 1960s–70s (standardized food-prep processes, workforce reduction begins); 1990s (digitized order management); 2010s (mobile-app ordering); 2015–present (kiosk rollout — $35k install, 18-month payback, pure margin after); 2025–2030 (McKinsey projection band: 39–73 million U.S. workers facing disruption). Beneath the timeline: a bar showing McDonald's global workforce as a percentage of 1960 baseline — ending at approximately 50% despite a substantially larger customer base. Reader should notice the waves are accelerating and overlapping: no single displacement is complete before the next begins.] -->
+![A horizontal timeline from 1960 to 2030, labeled](images/10-changing-work-environments-and-future-trends-fig-01.png)
+*Figure 10.1 — A horizontal timeline from 1960 to 2030, labeled*
 
 ---
 
@@ -25,7 +26,20 @@ The case against remote work is not, primarily, about productivity. It is about 
 
 The mitigation is operational: structured promotion-review processes that explicitly surface visibility-bias risk, documentation standards that make remote workers' contributions visible to reviewers who didn't observe them, calibration sessions that flag patterns before they calcify into promotion gaps. These interventions exist; most firms have not implemented them. A 2016 MIT pilot structured a hybrid arrangement with one mandated in-office day per week and found that every participant chose to continue after six months — a 100 percent continuation rate, which is the cleanest available evidence that a well-designed hybrid captures most of the productivity benefit of remote work while preserving the collaboration the Mayer memo named.
 
-<!-- → [TABLE: Remote-work evidence summary. Columns: Study/Source, Context, Productivity finding, Equity/culture finding. Rows: Bloom 2014 QJE (Chinese travel-agency call center, RCT; +13.5% calls per worker, -50% voluntary resignation; not studied); JD Edwards (enterprise software firm; +20–25% productivity; not reported); American Express (+43% on relevant tasks; not reported); HR research on visibility bias (multiple firms; not studied directly; equally productive remote workers promoted at lower rates than in-office peers). Bottom row: MIT 2016 hybrid pilot (one in-office day/week; 100% continuation rate; collaboration preserved). Reader should notice the productivity evidence is consistently positive; the equity evidence is consistently concerning; and the MIT hybrid result addresses both simultaneously.] -->
+| Study | Source | Context | Productivity finding | Equity |
+| --- | --- | --- | --- | --- |
+| Bloom 2014 QJE (Chinese travel-agency call center, RCT | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| +13.5% calls per worker, -50% voluntary resignation | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| not studied | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| JD Edwards (enterprise software firm | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| +20–25% productivity | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| not reported | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| American Express (+43% on relevant tasks | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| not reported | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| HR research on visibility bias (multiple firms | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| not studied directly | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| equally productive remote workers promoted at lower rates than in-office peers). Bottom row: MIT 2016 hybrid pilot (one in-office day | week | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| 100% continuation rate | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 At the other end of the spectrum from telecommuting is the campus. Apple Park, which opened in 2017 in Cupertino, occupies approximately 2.8 million square feet at an estimated construction cost of five billion dollars. Circular building, 9,000 trees, substantial on-site solar generation, room for approximately 12,000 employees. Facebook's Willow Village in Menlo Park goes further: the development plan includes approximately 1,500 housing units, retail space, a grocery store, a hotel, and parks, on a site adjacent to Facebook's existing campus. Roughly fifteen percent of the housing is reserved for low-income tenants under California's inclusionary-housing rules. It is, in effect, a small city that the firm builds and partly inhabits.
 
@@ -35,7 +49,20 @@ The contemporary tech campus is not a literal company town — workers can leave
 
 The chapter's framework: campus amenities are net-positive when they are genuinely voluntary — when the worker can use them or not without consequence. They become net-negative when they shade into operational expectations, when not using them becomes a signal of disengagement. Acuity Insurance's campus in Sheboygan, Wisconsin — which includes a climbing wall, a community theater, and an organic garden — is, on the available evidence, operating in the voluntary mode. Whether the Apple Park and Willow Village models produce the same outcome over time is a question the evidence is still answering.
 
-<!-- → [TABLE: Historical company town vs. contemporary tech campus comparison. Rows: Era, Representative examples, Housing provided?, Primary employer in region?, Worker freedom of exit, Amenities (what's included), Monopsony risk, Ethical status (chapter's verdict). Company town column: 1880s–1940s; Pullman IL, Hershey PA, Kohler WI; Yes — firm-owned; Yes — firm was the only employer; Practically constrained (no car, no commute range); Housing, schools, healthcare, recreation; High; Net negative — structure eventually produced Pullman Strike and decline. Tech campus column: 2010s–present; Apple Park, Facebook Willow Village, Acuity Insurance; Partially (Willow Village) or no; No — competitive labor market; Legally unconstrained; Gym, dining, childcare, healthcare, social infrastructure; Low (market is competitive) but growing; Depends on voluntariness — net positive if optional, net negative if operationally expected. Reader should notice the key variable is whether the amenities create genuine dependence or genuine choice.] -->
+| Dimension | Contrast |
+| --- | --- |
+| Era, Representative examples, Housing provided?, Primary employer in region?, Worker freedom of exit, Amenities (what's included | Use the chapter example as the concrete test case. |
+| Monopsony risk, Ethical status (chapter's verdict). Company town column: 1880s–1940s | A concrete checkpoint for applying the chapter concept. |
+| Pullman IL, Hershey PA, Kohler WI | A concrete checkpoint for applying the chapter concept. |
+| Yes | firm-owned |
+| Yes | firm was the only employer |
+| Practically constrained (no car, no commute range | A concrete checkpoint for applying the chapter concept. |
+| Housing, schools, healthcare, recreation | A concrete checkpoint for applying the chapter concept. |
+| High | A concrete checkpoint for applying the chapter concept. |
+| Net negative | structure eventually produced Pullman Strike and decline. Tech campus column: 2010s–present |
+| Apple Park, Facebook Willow Village, Acuity Insurance | A concrete checkpoint for applying the chapter concept. |
+| Partially (Willow Village) or no | A concrete checkpoint for applying the chapter concept. |
+| No | competitive labor market |
 
 ---
 
@@ -61,7 +88,8 @@ The occupations at lowest risk are the ones where the work involves the kind of 
 
 KPMG's 2017 analysis estimated that approximately fifty percent of current workplace *activities* are technically automatable using existing technology. The figure is widely cited and needs to be specified carefully. *Activities*, in the KPMG analysis, are not the same as *jobs*. Most jobs are bundles of activities — some automatable, some not. A job whose activities are fifty percent automatable is not a job that disappears; it is a job that, post-automation, consists primarily of the activities that were not automated, performed by fewer workers. The displacement is real. The framing matters.
 
-<!-- → [INFOGRAPHIC: Two-column occupation risk matrix. Left column header: "High displacement risk" (pattern-matching, classification, routine procedure). Entries: machine operators, factory workers, fast-food workers, cashiers, toll operators, bookkeepers, paralegals, taxi/truck/delivery drivers. Right column header: "Low displacement risk" (unstructured human-to-human interaction, novel judgment). Entries: nurses, physicians, lawyers, teachers, social workers (+19% BLS growth), bartenders, hairstylists, sports coaches, therapists, musicians. Center band between the columns: "The KPMG 50% activities caveat — most jobs contain activities from both columns; displacement reshapes roles before it eliminates them." Reader should notice the pattern: the distinguishing variable is not education level or compensation but the degree to which the work requires recognizing and responding to specific human emotional and cognitive states.] -->
+![Two-column occupation risk matrix](images/10-changing-work-environments-and-future-trends-fig-02.png)
+*Figure 10.2 — Two-column occupation risk matrix*
 
 The developing-nation comparison is worth one sentence: McKinsey's projections for India estimate approximately nine percent of the Indian workforce facing significant disruption, far below the U.S. figure. The reason is not that India is better organized. The reason is that Indian labor is, in many sectors, cheap enough that automation is not yet cost-justified. The disruption concentrated in advanced economies reflects, in part, the relative cost of labor versus capital, not the relative sophistication of the two economies.
 
@@ -81,7 +109,20 @@ The second is *liability*. When an AI-driven system makes a consequential decisi
 
 The third is what philosophers call the *personhood question*: as AI systems become more capable of producing human-grade output, do they have, or should they have, some form of moral or legal standing? The contemporary philosophical consensus is that current AI systems do not have consciousness or moral patient status in the traditional sense. The technical question — what would count as evidence that an AI system had consciousness, and how would we know — remains deeply contested. The legal question — should AI systems have independent standing in any legal context — has not been answered affirmatively in any major jurisdiction. The operational ethics for AI deployment should not wait on these answers. The safer and more defensible position, pending resolution, is to treat AI systems as instruments for which the humans who deploy them bear full responsibility for outcomes. The personhood question is worth following as it develops; it should not become an excuse for diffusing accountability.
 
-<!-- → [TABLE: AI workplace questions — current status as of 2026. Three rows, one per question. Row 1 — Disclosure: Ethical case (customers who believe they are talking to a human and are not have been deceived); Business case against (disclosed AI produces lower satisfaction scores); U.S. status (developing, no national rule); EU status (EU AI Act 2024 requires disclosure in many commercial contexts); California (B.O.T. Act 2018, certain commercial interactions). Row 2 — Liability: Who is potentially liable (deploying firm, model builder, data providers, specifying engineers); U.S. status (unsettled, case law building); EU status (EU AI Act tiered liability regime for high-risk applications); Operational implication (document what the system optimized for, what constraints it was given, what decisions it made). Row 3 — Personhood: Philosophical consensus (current AI lacks consciousness/moral patient status); Technical question (unsettled — what would count as evidence?); Legal status (no affirmative jurisdiction anywhere); Operational implication (treat as instrument; humans bear full accountability for deployment outcomes). Reader should notice all three questions are in different stages of resolution, and the firm deploying AI in 2026 must act before the first two are settled.] -->
+| Item | Meaning |
+| --- | --- |
+| AI workplace questions | current status as of 2026. Three rows, one per question. Row 1 |
+| Business case against (disclosed AI produces lower satisfaction scores | A concrete checkpoint for applying the chapter concept. |
+| U.S. status (developing, no national rule | A concrete checkpoint for applying the chapter concept. |
+| EU status (EU AI Act 2024 requires disclosure in many commercial contexts | Use the chapter example as the concrete test case. |
+| California (B.O.T. Act 2018, certain commercial interactions). Row 2 | Liability: Who is potentially liable (deploying firm, model builder, data providers, specifying engineers |
+| U.S. status (unsettled, case law building | A concrete checkpoint for applying the chapter concept. |
+| EU status (EU AI Act tiered liability regime for high-risk applications | A concrete checkpoint for applying the chapter concept. |
+| Operational implication (document what the system optimized for, what constraints it was given, what decisions it made). Row 3 | Personhood: Philosophical consensus (current AI lacks consciousness |
+| Technical question (unsettled | what would count as evidence? |
+| Legal status (no affirmative jurisdiction anywhere | A concrete checkpoint for applying the chapter concept. |
+| Operational implication (treat as instrument | A concrete checkpoint for applying the chapter concept. |
+| humans bear full accountability for deployment outcomes). Reader should notice all three questions are in different stages of resolution, and the firm deploying AI in 2026 must act before the first two are settled. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -157,3 +198,29 @@ Who is Shoshana Zuboff, and how does her work on workplace technology and survei
 - Ask it to discuss the criticisms of Zuboff's "surveillance capitalism" thesis from technology scholars.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 10.1 — A horizontal timeline from 1960 to 2030, labeled
+
+Create a standalone D3 v7 HTML file for Figure A horizontal timeline from 1960 to 2030, labeled. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A horizontal timeline from 1960 to 2030, labeled "McDonald's workforce displacement in waves." Five annotated bands: 1960s–70s (standardized food-prep processes, workforce reduction begins); 1990s (digitized order management); 2010s (mobile-app ordering); 2015–present (kiosk rollout — $35k install, 18-month payback, pure margin after); 2025–2030 (McKinsey projection band: 39–73 million U.S. workers facing disruption). Beneath the timeline: a bar showing McDonald's global workforce as a percentage of 1960 baseline — ending at approximately 50% despite a substantially larger customer base. Reader should notice the waves are accelerating and overlapping: no single displacement is complete before the next begins.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for b
+
+> Reference implementation: `d3/10-changing-work-environments-and-future-trends-fig-01.html`
+
+---
+
+### Figure 10.2 — Two-column occupation risk matrix
+
+Create a standalone D3 v7 HTML file for Figure Two-column occupation risk matrix. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Two-column occupation risk matrix. Left column header: "High displacement risk" (pattern-matching, classification, routine procedure). Entries: machine operators, factory workers, fast-food workers, cashiers, toll operators, bookkeepers, paralegals, taxi/truck/delivery drivers. Right column header: "Low displacement risk" (unstructured human-to-human interaction, novel judgment). Entries: nurses, physicians, lawyers, teachers, social workers (+19% BLS growth), bartenders, hairstylists, sports coaches, therapists, musicians. Center band between the columns: "The KPMG 50% activities caveat — most jobs contain activities from both columns; displacement reshapes roles before it eliminates them." Reader should notice the pattern: the distinguishing variable is not education level or compensation but the degree to which the work requires recognizing and responding to specific human emotional and cognitive stat
+
+> Reference implementation: `d3/10-changing-work-environments-and-future-trends-fig-02.html`

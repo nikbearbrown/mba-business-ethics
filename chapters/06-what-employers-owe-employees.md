@@ -30,7 +30,12 @@ Before you can reason about what sits above the floor, you need to know exactly 
 
 Here is the thing to notice about the four pillars: they cover safety, discrimination, layoff notice, and privacy. No pillar covers wage adequacy, work-life balance, or operative culture. Those are not regulated floors. They are the space above the floor, and that space is where the interesting ethical questions live.
 
-<!-- → [TABLE: Four-column reference table — columns: Statute, Year, What It Prohibits or Requires, Maximum Penalty / Key Case — rows: OSHA (1970), Title VII/EEOC (1964), WARN (1989), ECPA (1986). Student should notice the gap column: none of the four pillars reaches wage adequacy, work-life balance, or operative culture — the three areas the chapter's ethics argument covers] -->
+| Statute | Year | What It Prohibits or Requires | Maximum Penalty | Key Case — |
+| --- | --- | --- | --- | --- |
+| OSHA (1970 | A concrete checkpoint for applying the chapter concept. | A specific, evidence-linked version that readers can verify. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Title VII | EEOC (1964 | A specific, evidence-linked version that readers can verify. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| WARN (1989 | A concrete checkpoint for applying the chapter concept. | A specific, evidence-linked version that readers can verify. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| ECPA (1986). Student should notice the gap column: none of the four pillars reaches wage adequacy, work-life balance, or operative culture | the three areas the chapter's ethics argument covers | A specific, evidence-linked version that readers can verify. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -48,7 +53,8 @@ The post-2017 wave of public revelations makes the same point from the other dir
 
 This is the structure of compliance failures generally: compliance is auditable. Operative culture is not. Written policies, mandatory training modules, and certified records produce an audit trail that protects the firm in litigation. They do not produce the culture. The Ford case is the operative-culture failure inside a successful legal-compliance facade.
 
-<!-- → [DIAGRAM: Two-layer horizontal bar — bottom layer labeled "Legal compliance" (written policy, training records, consent decrees, EEOC settlements) with a checkmark; top layer labeled "Operative culture" (hiring criteria, promotion patterns, first-report response, senior leadership accountability) with a question mark. Ford Chicago plant placed with a checkmark on the bottom layer and an X on the top layer. Caption: "Compliance is auditable. Culture is not. The Ford case had both layers labeled — only one was real."] -->
+![Compliance is auditable. Culture is not. The Ford case had both layers labeled — only one was real.](images/06-what-employers-owe-employees-fig-01.png)
+*Figure 6.1 — Two-layer horizontal bar *
 
 There is a misconception worth naming directly: that training solves the problem. The industry-level data on harassment training shows little reduction in incident rates and small increases in formal complaint rates — which is all training can produce. More reports, with the underlying behavior unchanged. Training is part of the solution. The rest of the solution is compensation, promotion, and accountability structures that make the operative culture actually move. The firms that understood this before being forced to are the ones that didn't spend 2017 in emergency board meetings.
 
@@ -70,13 +76,19 @@ The wave was small. Most U.S. firms in 2015 did not raise their salary floors. T
 
 **The gender pay gap.** Women in the United States earned approximately 60 percent of men's pay in 1960. By 2016, the figure was approximately 80 percent. The trajectory of closure has slowed since the 1990s; current projections suggest pay equity will not be reached until somewhere between 2059 and 2119 if the recent rate continues. A $5,000 starting-salary gap in early career magnifies, at typical 5 percent annual raises, to more than $600,000 over a 40-year career.
 
-<!-- → [CHART: Four-panel data visualization — Panel 1: U.S. federal minimum wage in real 2024 dollars, 1968–2024 (declining trend from ~$12 to $7.25 equivalent); Panel 2: U.S. productivity growth vs. median compensation growth indexed to 1973 (two diverging lines — productivity +74%, compensation +12%); Panel 3: CEO-to-median-worker pay ratio at large U.S. firms, 1965–2014 (rising from 20:1 to 300:1); Panel 4: Gender pay gap 1960–2024 with projected closure date range (2059–2119). Source: Economic Policy Institute / Bureau of Labor Statistics. Student should see that all four panels trace the same underlying story: post-1973 decoupling of worker compensation from productivity gains] -->
+![Four-panel data visualization ](images/06-what-employers-owe-employees-fig-02.png)
+*Figure 6.2 — Four-panel data visualization *
 
 All four gaps tell related parts of the same story: the post-1973 decoupling of worker compensation from productivity gains. The firms running compensation experiments — Gravity Payments, Costco, which has paid above its retail-sector wage benchmark for decades — have, on the available data, performed at or above their sector-comparable competitors. The mechanism is partly composition (higher-quality applicants, longer retention), partly culture (workers who understand the rationale for the firm's existence), partly demand (consumers in many segments increasingly prefer firms with visible labor commitments). Pay above the legal minimum is more expensive in the present quarter and less expensive in the long run. The firm whose horizon is the next quarter is optimizing the wrong horizon.
 
 Iceland's *Equal Pay Standard*, which took effect on January 1, 2018, is the boldest legal experiment in this area. Employers with 25 or more employees must certify, every three years, that they pay men and women equally for the same work. Compliance is verified by independent audit; non-compliance produces escalating fines. The U.S. federal regime — Equal Pay Act, Title VII, the Lilly Ledbetter Fair Pay Act of 2009 — produces enforcement through individual complaints. The Icelandic regime produces enforcement through certification. The two differ in burden of proof, administrative cost, and pace of effect. The Icelandic regime is faster. It is also more administratively intensive. The contemporary U.S. policy debate about whether to move toward certification has not resolved.
 
-<!-- → [TABLE: Comparison of pay-equity enforcement regimes — columns: Country/Regime, Mechanism, Employer Threshold, Verification Method, Enforcement Speed — rows: U.S. (Equal Pay Act + Title VII), Iceland (Equal Pay Standard, 2018), UK (Gender Pay Gap Reporting), Germany (kindergarten access policy). Student should notice that the U.S. is the only regime that relies entirely on individual complaints rather than employer-side certification or structural childcare policy] -->
+| Country | Regime | Mechanism | Employer Threshold | Verification Method |
+| --- | --- | --- | --- | --- |
+| U.S. (Equal Pay Act + Title VII | A concrete checkpoint for applying the chapter concept. | It makes the underlying reasoning visible instead of implied. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Iceland (Equal Pay Standard, 2018 | A concrete checkpoint for applying the chapter concept. | It makes the underlying reasoning visible instead of implied. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| UK (Gender Pay Gap Reporting | A concrete checkpoint for applying the chapter concept. | It makes the underlying reasoning visible instead of implied. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Germany (kindergarten access policy). Student should notice that the U.S. is the only regime that relies entirely on individual complaints rather than employer-side certification or structural childcare policy | A concrete checkpoint for applying the chapter concept. | It makes the underlying reasoning visible instead of implied. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -98,7 +110,8 @@ German *Mitbestimmung* — codetermination — has, since the postwar period, gi
 
 **Due process.** The interest in being fairly treated when adverse employment decisions are made. The U.S. doctrine of employment at will — under which approximately 85 percent of private-sector workers operate, meaning either party can dissolve the employment relationship at any time without cause — substantially limits due-process protections in practice. Germany, France, Italy, the United Kingdom, and Canada all operate with substantially stronger employee protections against dismissal. Their economies are not worse for it.
 
-<!-- → [INFOGRAPHIC: Three-column layout, one column per autonomy claim — Privacy, Voice, Due Process. For each: the U.S. legal protection level (low/medium/high), the OECD median protection level, and one concrete gap indicator (Privacy: ECPA consent exception vs. GDPR; Voice: 6.5% private-sector unionization vs. 82% Sweden; Due Process: employment-at-will vs. German dismissal-cause requirements). Student should notice that on all three dimensions the U.S. sits at or below the OECD low end, which is unusual for a high-income economy] -->
+![Three-column layout, one column per autonomy claim ](images/06-what-employers-owe-employees-fig-03.png)
+*Figure 6.3 — Three-column layout, one column per autonomy claim *
 
 The *Quon* test is a useful frame even in purely private-sector settings: is the monitoring *motivated by a legitimate work-related purpose, and is it not excessive in scope*? The first prong asks why the monitoring is happening. The second asks how broad it is. A specific investigation of a specific employee who has triggered a specific complaint passes the test. Keystroke logging and screen capture deployed across an entire workforce fails it — the legitimate purposes (catching shirking, securing IP) do not require comprehensive surveillance to achieve. The available longitudinal evidence on comprehensive surveillance — workplace culture surveys, retention data, absenteeism rates — supports the view that the cumulative costs outweigh the gains for most firms in most settings.
 
@@ -118,7 +131,13 @@ The firm's most-talented employees — the ones with options elsewhere — will 
 
 This is the pattern Chapter 1 named: short-horizon-rational, long-horizon-irrational. The proposal treats legal compliance as the ceiling of obligation rather than the floor. It treats workers as a cost to be minimized rather than as the operating machinery through whom the business physically happens. It will, on the available evidence, perform exactly as the framework predicts.
 
-<!-- → [TABLE: Northstar proposal scorecard — rows: each of the five proposal elements (headcount reduction, comprehensive monitoring, wage freeze, elimination of pay transparency, compliance-only commitment); columns: Legal? (yes/no), Passes Quon test? (yes/no/partial), Triple-bottom-line people score (positive/neutral/negative), Expected long-run effect on firm performance. Student should see that every row is legal and every row is either neutral or negative on long-run firm performance — the table makes the argument visual] -->
+| Legal? (yes | no) | Passes Quon test? (yes | no | partial) |
+| --- | --- | --- | --- | --- |
+| each of the five proposal elements (headcount reduction, comprehensive monitoring, wage freeze, elimination of pay transparency, compliance-only commitment | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| columns: Legal? (yes | no | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Passes Quon test? (yes | no | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Triple-bottom-line people score (positive | neutral | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Expected long-run effect on firm performance. Student should see that every row is legal and every row is either neutral or negative on long-run firm performance | the table makes the argument visual | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 Sharon Dunn's testimony is still the clearest statement of what the floor fails to provide. The legal regime produced money and consent decrees and written policy commitments. What it could not produce — what it cannot produce, because it is not designed to — is the operative culture in which people like her are treated as ends rather than as a line item. That is what an employer actually owes. And the firms that have figured this out are not doing it because it feels good. They are doing it because it works.
 
@@ -194,3 +213,37 @@ Who was Crystal Eastman, and how does her work on workers' compensation and labo
 - Ask it about Eastman's later role drafting the Equal Rights Amendment and co-founding the ACLU.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 6.1 — Two-layer horizontal bar 
+
+Create a standalone D3 v7 HTML file for Figure Two-layer horizontal bar . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Two-layer horizontal bar — bottom layer labeled "Legal compliance" (written policy, training records, consent decrees, EEOC settlements) with a checkmark; top layer labeled "Operative culture" (hiring criteria, promotion patterns, first-report response, senior leadership accountability) with a question mark. Ford Chicago plant placed with a checkmark on the bottom layer and an X on the top layer. Caption: "Compliance is auditable. Culture is not. The Ford case had both layers labeled — only one was real.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/06-what-employers-owe-employees-fig-01.html`
+
+---
+
+### Figure 6.2 — Four-panel data visualization 
+
+Create a standalone D3 v7 HTML file for Figure Four-panel data visualization . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Four-panel data visualization — Panel 1: U.S. federal minimum wage in real 2024 dollars, 1968–2024 (declining trend from ~$12 to $7.25 equivalent); Panel 2: U.S. productivity growth vs. median compensation growth indexed to 1973 (two diverging lines — productivity +74%, compensation +12%); Panel 3: CEO-to-median-worker pay ratio at large U.S. firms, 1965–2014 (rising from 20:1 to 300:1); Panel 4: Gender pay gap 1960–2024 with projected closure date range (2059–2119). Source: Economic Policy Institute / Bureau of Labor Statistics. Student should see that all four panels trace the same underlying story: post-1973 decoupling of worker compensation from productivity gains. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations 
+
+> Reference implementation: `d3/06-what-employers-owe-employees-fig-02.html`
+
+---
+
+### Figure 6.3 — Three-column layout, one column per autonomy claim 
+
+Create a standalone D3 v7 HTML file for Figure Three-column layout, one column per autonomy claim . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Three-column layout, one column per autonomy claim — Privacy, Voice, Due Process. For each: the U.S. legal protection level (low/medium/high), the OECD median protection level, and one concrete gap indicator (Privacy: ECPA consent exception vs. GDPR; Voice: 6.5% private-sector unionization vs. 82% Sweden; Due Process: employment-at-will vs. German dismissal-cause requirements). Student should notice that on all three dimensions the U.S. sits at or below the OECD low end, which is unusual for a high-income economy. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/06-what-employers-owe-employees-fig-03.html`

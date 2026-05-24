@@ -18,7 +18,8 @@ The actual answer is more interesting and harder. Starbucks was responding to a 
 
 It is also, as we'll see, the discipline most companies fail at before their worst crises, not because the framework is complicated, but because working through it honestly is more expensive than not working through it at all.
 
-<!-- → [INFOGRAPHIC: Timeline of the Starbucks Philadelphia incident — horizontal axis showing April 12 (arrest), April 13 (video reaches 10M views), April 14–May (public pressure builds), May 29 (8,000 stores close for training) — with the scale of the response annotated at each stage; student should see the disproportionality between the precipitating incident and the corporate response, which is the chapter's opening question made visual] -->
+![Timeline of the Starbucks Philadelphia incident ](images/03-defining-and-prioritizing-stakeholders-fig-01.png)
+*Figure 3.1 — Timeline of the Starbucks Philadelphia incident *
 
 ---
 
@@ -46,7 +47,8 @@ The first taxonomy classifies stakeholders by the nature of their relationship t
 
 That last category is the one that surprises firms. The enabling, normative, and functional stakeholders are legible — they're in the contracts, the org charts, the supplier agreements. The diffused stakeholders are invisible until they're not.
 
-<!-- → [DIAGRAM: Four concentric rings labeled from inside out: Enabling (shareholders, board, regulators), Normative (competitors, trade associations), Functional (suppliers, employees, customers, distributors), Diffused (NGOs, journalists, social media publics, bystanders with phones) — with an arrow from the outermost ring pointing inward labeled "becomes visible in a crisis"; student should see that the rings don't represent importance, only proximity to the firm's daily operations] -->
+![Four concentric rings labeled from inside out: Enabling](images/03-defining-and-prioritizing-stakeholders-fig-02.png)
+*Figure 3.2 — Four concentric rings labeled from inside out: Enabling*
 
 ### The second cut: how aware of the issue are they?
 
@@ -64,7 +66,12 @@ The two taxonomies stack. A diffused stakeholder who is currently a nonpublic is
 
 The manager who called 911 wasn't thinking about diffused stakeholders becoming active publics. The discipline of stakeholder analysis is, in part, the discipline of thinking about that before you need to.
 
-<!-- → [TABLE: Two-axis grid — columns: Enabling, Normative, Functional, Diffused; rows: Nonpublic, Latent, Aware, Active — with each cell populated by a Starbucks-specific example (e.g., Diffused/Active = the 10M video viewers and organized boycott callers; Functional/Aware = baristas at the 18th & Spruce store; Enabling/Active = institutional investors weighing board response); student should notice that the Active row across all four columns is where pressure becomes operational] -->
+| Enabling | Normative | Functional | Diffused |
+| --- | --- | --- | --- |
+| Nonpublic, Latent, Aware, Active | with each cell populated by a Starbucks-specific example (e.g., Diffused | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Functional | Aware = baristas at the 18th & Spruce store | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Enabling | Active = institutional investors weighing board response | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| student should notice that the Active row across all four columns is where pressure becomes operational | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -86,7 +93,8 @@ Samsung took the second path.
 
 The interesting thing is not that Samsung did the right thing. The interesting thing is that Samsung's analysis concluded the second path was also, in the long run, the *less* expensive one — not financially in the short term, but in terms of its relationship with three million customers, its retailers, its regulators, and the brand that earned all of those relationships. The stakeholder-primacy view and the long-horizon self-interest view converged on the same answer. They often do. That's worth knowing.
 
-<!-- → [CHART: Bar chart comparing Samsung washer recall — two bars side by side: "Legal minimum path" (estimated cost: low hundreds of millions) vs. "Ethical maximum path" (estimated cost: billions) — with a third element showing Tylenol's market share trajectory as a line (37% → 7% → 30%) to illustrate the long-horizon argument; student should see that the ethical maximum had a higher short-term cost and a lower long-term cost] -->
+![Bar chart comparing Samsung washer recall ](images/03-defining-and-prioritizing-stakeholders-fig-03.png)
+*Figure 3.3 — Bar chart comparing Samsung washer recall *
 
 ---
 
@@ -108,7 +116,8 @@ Two dimensions: how much **power** a stakeholder has to affect the firm's outcom
 
 A third dimension overlays the matrix: *exigency* — the urgency of the claim. A high-power, high-interest stakeholder with a non-urgent claim is a long-term constraint to design around. The same stakeholder with an urgent claim is a fire.
 
-<!-- → [DIAGRAM: 2x2 power-interest matrix — quadrants labeled Key Stakeholders (high/high), Latent Powers (high/low), Interested Observers (low/high), Background Stakeholders (low/low) — with example actors from the Malaysia Airlines turnaround placed in each cell, and a note indicating that exigency is a third dimension that determines response timing within quadrant priority] -->
+![2x2 power-interest matrix ](images/03-defining-and-prioritizing-stakeholders-fig-04.png)
+*Figure 3.4 — 2x2 power-interest matrix *
 
 ### The Malaysia Airlines case
 
@@ -150,7 +159,8 @@ That tension has a name.
 
 **The triple bottom line** brings externalities into the ledger. John Elkington coined the phrase in 1994, but the idea is simple: measure the firm on three simultaneous bottom lines — financial (the traditional profit-and-loss), social (effects on the people it employs and the communities it operates in), and environmental (effects on the natural systems it depends on and discharges into). *People, planet, profit* — the three Ps. Triple-bottom-line accounting doesn't replace financial accounting; it adds two parallel ledgers that have to balance their own books.
 
-<!-- → [INFOGRAPHIC: Three overlapping circles — People, Planet, Profit — with the central intersection labeled "genuine CSR"; outside the central intersection, three failure zones labeled: Extraction (profit only), Philanthropy Without Operational Change (profit + people language, no planet), Greenwashing (language of all three, operations only in profit); the Coca-Cola Chiapas plant placed in the Greenwashing zone, J&J Tylenol placed in the central intersection; student should notice that greenwashing is geometrically distinct from extraction — it claims the center while operating outside it] -->
+![Three overlapping circles ](images/03-defining-and-prioritizing-stakeholders-fig-05.png)
+*Figure 3.5 — Three overlapping circles *
 
 **Greenwashing** is what happens when a firm performs the *language* of corporate social responsibility without performing the *substance*. The sustainability report is well-written. The operations are unchanged. The harm of greenwashing is double: it harms the parties the firm continues to harm operationally, and it cheapens the language of sustainability for the firms doing the actual work.
 
@@ -174,7 +184,10 @@ Apply the matrix. The high-power-high-interest cell at this moment includes the 
 
 Run the triple bottom line. Denying knowledge and terminating the supplier contract is profit-bottom-line-positive in the short run, people-bottom-line-negative, and reputation-negative over the medium term. A full audit, remediation funding, and a multi-year commitment with measurable targets is profit-bottom-line-negative in the short run and people-bottom-line-positive, with reputation-positive effects over the medium and long term.
 
-<!-- → [TABLE: Side-by-side comparison of Strider's three response options — columns: Option A (deny/terminate), Option B (full audit and remediation), Option C (limited acknowledgment) — rows: short-term financial cost, people bottom line, environmental bottom line, medium-term reputation, greenwashing risk; student should see that Option C's apparent middle ground scores worse than Option B on every medium-term dimension] -->
+| Option A (deny | terminate) | Option B (full audit | remediation) | Option C (limited acknowledgment) — |
+| --- | --- | --- | --- | --- |
+| short-term financial cost, people bottom line, environmental bottom line, medium-term reputation, greenwashing risk | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| student should see that Option C's apparent middle ground scores worse than Option B on every medium-term dimension | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 Watch for greenwashing. Strider's communications team will be tempted to write Option B's language without committing to Option B's operations. The matrix made the decision; now the press release needs to be constrained by what the operations can actually deliver.
 
@@ -226,3 +239,53 @@ Who is R. Edward Freeman, and how does his stakeholder theory connect to the sta
 - Ask it to compare Freeman's stakeholder approach with Milton Friedman's "the only social responsibility is to shareholders" thesis.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 3.1 — Timeline of the Starbucks Philadelphia incident 
+
+Create a standalone D3 v7 HTML file for Figure Timeline of the Starbucks Philadelphia incident . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Timeline of the Starbucks Philadelphia incident — horizontal axis showing April 12 (arrest), April 13 (video reaches 10M views), April 14–May (public pressure builds), May 29 (8,000 stores close for training) — with the scale of the response annotated at each stage; student should see the disproportionality between the precipitating incident and the corporate response, which is the chapter's opening question made visual. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-defining-and-prioritizing-stakeholders-fig-01.html`
+
+---
+
+### Figure 3.2 — Four concentric rings labeled from inside out: Enabling
+
+Create a standalone D3 v7 HTML file for Figure Four concentric rings labeled from inside out: Enabling. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Four concentric rings labeled from inside out: Enabling (shareholders, board, regulators), Normative (competitors, trade associations), Functional (suppliers, employees, customers, distributors), Diffused (NGOs, journalists, social media publics, bystanders with phones) — with an arrow from the outermost ring pointing inward labeled "becomes visible in a crisis"; student should see that the rings don't represent importance, only proximity to the firm's daily operations. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-defining-and-prioritizing-stakeholders-fig-02.html`
+
+---
+
+### Figure 3.3 — Bar chart comparing Samsung washer recall 
+
+Create a standalone D3 v7 HTML file for Figure Bar chart comparing Samsung washer recall . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Bar chart comparing Samsung washer recall — two bars side by side: "Legal minimum path" (estimated cost: low hundreds of millions) vs. "Ethical maximum path" (estimated cost: billions) — with a third element showing Tylenol's market share trajectory as a line (37% → 7% → 30%) to illustrate the long-horizon argument; student should see that the ethical maximum had a higher short-term cost and a lower long-term cost. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-defining-and-prioritizing-stakeholders-fig-03.html`
+
+---
+
+### Figure 3.4 — 2x2 power-interest matrix 
+
+Create a standalone D3 v7 HTML file for Figure 2x2 power-interest matrix . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: 2x2 power-interest matrix — quadrants labeled Key Stakeholders (high/high), Latent Powers (high/low), Interested Observers (low/high), Background Stakeholders (low/low) — with example actors from the Malaysia Airlines turnaround placed in each cell, and a note indicating that exigency is a third dimension that determines response timing within quadrant priority. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-defining-and-prioritizing-stakeholders-fig-04.html`
+
+---
+
+### Figure 3.5 — Three overlapping circles 
+
+Create a standalone D3 v7 HTML file for Figure Three overlapping circles . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Three overlapping circles — People, Planet, Profit — with the central intersection labeled "genuine CSR"; outside the central intersection, three failure zones labeled: Extraction (profit only), Philanthropy Without Operational Change (profit + people language, no planet), Greenwashing (language of all three, operations only in profit); the Coca-Cola Chiapas plant placed in the Greenwashing zone, J&J Tylenol placed in the central intersection; student should notice that greenwashing is geometrically distinct from extraction — it claims the center while operating outside it. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-defining-and-prioritizing-stakeholders-fig-05.html`

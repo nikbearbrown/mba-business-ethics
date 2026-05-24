@@ -12,7 +12,8 @@ Now here is the thing to notice. Uber had reporting channels. Uber had an HR dep
 
 The chapter is about why that pattern recurs across professional contexts that look nothing like each other. Entrepreneurship, advertising, insurance, healthcare — four sectors with different products and different customers and different regulatory regimes. What they share is a set of structural pressures that are predictable enough that practitioners can prepare for them. The chapter names the pressures. That is all it does. But naming them, in advance, is the difference between navigating the structure and becoming a casualty of it.
 
-<!-- → [INFOGRAPHIC: Four-panel row, one panel per sector — Entrepreneurship (founder culture scales into firm culture), Advertising (information asymmetry between persuader and audience), Insurance (private risk pooling breaks down on catastrophic correlated events), Healthcare (loosely regulated multipayer produces highest cost and lowest performance). Each panel: the sector name, the structural pressure in one sentence, and the chapter case that illustrates it (Uber / Pet Rock + vulnerability classes / Hurricane Harvey / Commonwealth Fund ranking). Student should see that the same underlying logic — apparatus fails under predictable conditions — applies across all four] -->
+![Four-panel row, one panel per sector ](images/09-professions-under-the-microscope-fig-01.png)
+*Figure 9.1 — Four-panel row, one panel per sector *
 
 ---
 
@@ -32,7 +33,8 @@ What is worth tracking about the Uber timeline is the velocity. The structural p
 
 Most founders do not choose this until they have to.
 
-<!-- → [CHART: Timeline diagram of the Uber founder-culture correction — horizontal axis: months from January 2017 to December 2017. Key events marked: Feb 19 (Fowler post published), Feb 20 (10M+ reads), late Feb (Holder retained), June (Kalanick forced out), 2018-19 (settlements, IPO). A second parallel bar shows duration of internal complaints without correction: 2014–2017, ~3 years. Student should see the velocity contrast: three years of internal failure vs. four months of external pressure to produce the same correction] -->
+![Timeline diagram of the Uber founder-culture correction ](images/09-professions-under-the-microscope-fig-02.png)
+*Figure 9.2 — Timeline diagram of the Uber founder-culture correction *
 
 ---
 
@@ -52,7 +54,8 @@ The subliminal advertising scare is worth a brief note because it has distorted 
 
 The test the chapter proposes is simple enough to apply: *what information is being delivered, what emotional appeal is being made, and would the audience, on full information, choose to be persuaded by the appeal?* Advertising that passes this test is informational with emotional appeals consistent with what the product actually delivers. Advertising that fails it is manipulation — the use of the audience's genuine needs to move the audience toward a purchase the needs don't actually require. Most contemporary advertising sits somewhere on the spectrum between the two. The practitioner's job is to know where on the spectrum their work sits.
 
-<!-- → [DIAGRAM: Spectrum bar from left (Informational) to right (Manipulative). Three labeled positions: Left anchor — product specifications advertising with accurate utility claims; Middle — emotional appeals consistent with the product's actual benefits (passes the full-information test); Right anchor — self-esteem and vulnerability-class appeals that the audience would reject on reflection. Pet Rock placed near the left (full information, non-utility acknowledged); child-directed cereal advertising placed near the right; a typical car advertisement placed in the middle-right zone. Student should notice that most advertising is not at either extreme and that the test is about where in the spectrum a specific campaign lands] -->
+![Spectrum bar from left (Informational) to right (Manipulative)](images/09-professions-under-the-microscope-fig-03.png)
+*Figure 9.3 — Spectrum bar from left (Informational) to right (Manipulative)*
 
 ---
 
@@ -64,7 +67,8 @@ The reason is structural. Standard U.S. homeowners' insurance covers wind damage
 
 The Harvey case exposes a principle that the insurance industry has known for a long time. *Insurance, as a private-sector product, works for risks that are statistically independent across the pool, geographically dispersed, and actuarially priceable. It does not work, on a private-sector basis, for catastrophic risks that are concentrated, correlated, and increasingly amplified by climate change.* The mechanism of insurance is risk pooling: many parties pay small premiums; the pool covers the losses of the few who experience the insured event. The mechanism requires the losses to be dispersed. When a hurricane or a wildfire hits, the losses are not dispersed. Thousands of households are hit simultaneously. The pool is exhausted. The private sector withdrew from flood coverage; the federal government created the NFIP to replace it. The same dynamic is now operating in California wildfire coverage: State Farm, Allstate, and several other major carriers announced partial withdrawals from the California homeowners' market in 2023-24. The private sector is exiting the risk. The federal and state backstops are expanding.
 
-<!-- → [DIAGRAM: Two-column contrast — "Risks where private pooling works" vs. "Risks where private pooling fails." Left column: auto accidents (statistically independent, geographically dispersed, actuarially stable), life insurance (predictable mortality tables, large diversified pool), health insurance for routine care. Right column: hurricane (correlated across thousands of households simultaneously), wildfire (entire neighborhoods destroyed at once), pandemic (global correlation, pool exhausted). Hurricane Harvey annotated with $30B total loss / 40% insured / 60% uninsured. Student should see that the right column is not a market failure — it is a predictable structural limit of the pooling mechanism] -->
+![Two-column contrast ](images/09-professions-under-the-microscope-fig-04.png)
+*Figure 9.4 — Two-column contrast *
 
 Alongside the structural catastrophe problem sits a discrimination problem. The 2017 *Consumer Reports*–ProPublica investigation found that auto insurers in California, Illinois, Missouri, and Texas were charging higher premiums in predominantly minority neighborhoods than the actual claims history in those neighborhoods could justify. The investigation named major carriers: Allstate, Geico, Liberty Mutual. The practice was illegal under the laws of most of the affected states. Enforcement was limited. This is redlining — the discriminatory pricing of insurance products on the basis of neighborhood characteristics that proxy for race or ethnicity — and it has persisted in the auto insurance market for the same reason it persisted in mortgage lending: the enforcement regime is reactive, depends on individual complaints, and is under-resourced relative to the scale of the practice.
 
@@ -72,7 +76,8 @@ The healthcare case is the same structural problem scaled to the entire system. 
 
 Most peer countries operate either single-payer systems — Canada and the United Kingdom, where taxes pay providers directly — or regulated multipayer systems — Germany, France, Japan — where multiple payers operate inside a tightly regulated framework that constrains pricing and ensures universal coverage. The U.S. operates a loosely regulated multipayer system: patients, employers, private insurers, and government programs all pay providers, with substantially more pricing variation than the regulated systems permit. The variation produces the administrative overhead, the prescription drug cost inflation (from approximately seven percent of U.S. healthcare costs in the 1990s to approximately seventeen percent by 2017), and the incentive structures that reward volume over outcome.
 
-<!-- → [CHART: Scatter plot of eleven peer countries — horizontal axis: per-capita healthcare spending (USD); vertical axis: overall healthcare system performance score (Commonwealth Fund 2017 Mirror Mirror). U.S. plotted in the bottom-right corner (highest spend, lowest performance). Canada, UK, Germany, France, Japan plotted in the upper-left-to-middle zone (lower spend, higher performance). Student should see the U.S. outlier position immediately and notice that the relationship is not linear — higher spending does not produce higher performance, which is the structural argument in visual form] -->
+![Scatter plot of eleven peer countries ](images/09-professions-under-the-microscope-fig-05.png)
+*Figure 9.5 — Scatter plot of eleven peer countries *
 
 The Affordable Care Act of 2010 addressed some of the system's most visible failures — it prohibited preexisting-condition exclusions, expanded Medicaid eligibility, and created insurance exchanges with income-based subsidies. It did not resolve the structural cost problem. The structure that produces the highest per-capita cost in the peer-country comparison also delivers the most revenue to providers per unit of care delivered. Those two facts are connected. Reform produces winners and losers among the firms whose revenue depends on the existing structure; the losers have organized to delay reform since 1965, and they have been largely successful.
 
@@ -84,7 +89,10 @@ The insurance and healthcare cases belong together in one concept because they s
 
 Entrepreneurship, advertising, insurance and healthcare. Four sectors. Three structural pressures. The pressures don't look the same on the surface — founder culture is not the same thing as the dependence effect, and neither is the same thing as catastrophic-risk pooling. But they share something at the level of mechanism.
 
-<!-- → [TABLE: Cross-sector comparison matrix — rows: Entrepreneurship, Advertising, Insurance, Healthcare; columns: Structural Pressure, Apparatus That Should Constrain It, Condition Under Which Apparatus Fails, Chapter Case. Each cell filled with the specific answer for that sector (e.g., Advertising / FTC and vulnerability-class regulation / when the target audience has the least cognitive defense / child-directed advertising). Student should see that the four rows share the same column logic even though the surface content differs entirely — this is the chapter's unifying claim made visible] -->
+| Structural Pressure | Apparatus That Should Constrain It | Condition Under Which Apparatus Fails | Chapter Case |
+| --- | --- | --- | --- |
+| Entrepreneurship, Advertising, Insurance, Healthcare | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| columns: Structural Pressure, Apparatus That Should Constrain It, Condition Under Which Apparatus Fails, Chapter Case. Each cell filled with the specific answer for that sector (e.g., Advertising | FTC and vulnerability-class regulation | when the target audience has the least cognitive defense | child-directed advertising). Student should see that the four rows share the same column logic even though the surface content differs entirely |
 
 In each case, *the apparatus that is supposed to constrain the ethical failure either does not exist, does not function, or fails under specific conditions that are predictable in advance.* The Uber HR department existed and didn't function. The FTC advertising regulatory regime exists and handles some cases while leaving the vulnerability classes largely intact. The flood insurance system was absent until the federal government created it, and it is chronically under-resourced. The ACA made things better and left the structural cost problem largely intact.
 
@@ -166,3 +174,53 @@ Who was Abraham Flexner, and how does the 1910 Flexner Report connect to how pro
 - Ask it to compare the Flexner Report's effect on medicine with the more recent debates over professional licensing reform in law and accounting.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 9.1 — Four-panel row, one panel per sector 
+
+Create a standalone D3 v7 HTML file for Figure Four-panel row, one panel per sector . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Four-panel row, one panel per sector — Entrepreneurship (founder culture scales into firm culture), Advertising (information asymmetry between persuader and audience), Insurance (private risk pooling breaks down on catastrophic correlated events), Healthcare (loosely regulated multipayer produces highest cost and lowest performance). Each panel: the sector name, the structural pressure in one sentence, and the chapter case that illustrates it (Uber / Pet Rock + vulnerability classes / Hurricane Harvey / Commonwealth Fund ranking). Student should see that the same underlying logic — apparatus fails under predictable conditions — applies across all four. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in t
+
+> Reference implementation: `d3/09-professions-under-the-microscope-fig-01.html`
+
+---
+
+### Figure 9.2 — Timeline diagram of the Uber founder-culture correction 
+
+Create a standalone D3 v7 HTML file for Figure Timeline diagram of the Uber founder-culture correction . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Timeline diagram of the Uber founder-culture correction — horizontal axis: months from January 2017 to December 2017. Key events marked: Feb 19 (Fowler post published), Feb 20 (10M+ reads), late Feb (Holder retained), June (Kalanick forced out), 2018-19 (settlements, IPO). A second parallel bar shows duration of internal complaints without correction: 2014–2017, ~3 years. Student should see the velocity contrast: three years of internal failure vs. four months of external pressure to produce the same correction. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/09-professions-under-the-microscope-fig-02.html`
+
+---
+
+### Figure 9.3 — Spectrum bar from left (Informational) to right (Manipulative)
+
+Create a standalone D3 v7 HTML file for Figure Spectrum bar from left (Informational) to right (Manipulative). Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Spectrum bar from left (Informational) to right (Manipulative). Three labeled positions: Left anchor — product specifications advertising with accurate utility claims; Middle — emotional appeals consistent with the product's actual benefits (passes the full-information test); Right anchor — self-esteem and vulnerability-class appeals that the audience would reject on reflection. Pet Rock placed near the left (full information, non-utility acknowledged); child-directed cereal advertising placed near the right; a typical car advertisement placed in the middle-right zone. Student should notice that most advertising is not at either extreme and that the test is about where in the spectrum a specific campaign lands. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero
+
+> Reference implementation: `d3/09-professions-under-the-microscope-fig-03.html`
+
+---
+
+### Figure 9.4 — Two-column contrast 
+
+Create a standalone D3 v7 HTML file for Figure Two-column contrast . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Two-column contrast — "Risks where private pooling works" vs. "Risks where private pooling fails." Left column: auto accidents (statistically independent, geographically dispersed, actuarially stable), life insurance (predictable mortality tables, large diversified pool), health insurance for routine care. Right column: hurricane (correlated across thousands of households simultaneously), wildfire (entire neighborhoods destroyed at once), pandemic (global correlation, pool exhausted). Hurricane Harvey annotated with $30B total loss / 40% insured / 60% uninsured. Student should see that the right column is not a market failure — it is a predictable structural limit of the pooling mechanism. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and a
+
+> Reference implementation: `d3/09-professions-under-the-microscope-fig-04.html`
+
+---
+
+### Figure 9.5 — Scatter plot of eleven peer countries 
+
+Create a standalone D3 v7 HTML file for Figure Scatter plot of eleven peer countries . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Scatter plot of eleven peer countries — horizontal axis: per-capita healthcare spending (USD); vertical axis: overall healthcare system performance score (Commonwealth Fund 2017 Mirror Mirror). U.S. plotted in the bottom-right corner (highest spend, lowest performance). Canada, UK, Germany, France, Japan plotted in the upper-left-to-middle zone (lower spend, higher performance). Student should see the U.S. outlier position immediately and notice that the relationship is not linear — higher spending does not produce higher performance, which is the structural argument in visual form. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mo
+
+> Reference implementation: `d3/09-professions-under-the-microscope-fig-05.html`

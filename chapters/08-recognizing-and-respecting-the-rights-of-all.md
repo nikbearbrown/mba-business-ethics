@@ -14,7 +14,8 @@ Aimee Stephens died in May 2020, weeks before the ruling was announced. The prot
 
 This chapter is about what that arc means for a business. Rights in the workplace are not gifts from a benevolent legislature. They are the residue of fights — organized by specific people, at specific personal cost, over specific years. The chapter's working argument is that the firms which move ahead of those fights — that recognize rights before the courts make them legally enforceable — are consistently operating better business than the firms that wait to be forced.
 
-<!-- → [INFOGRAPHIC: A timeline of major U.S. workplace-rights statutes and decisions, running 1963 to 2020. Anchor points: Equal Pay Act 1963, Civil Rights Act / Title VII 1964, Age Discrimination in Employment Act 1967, Pregnancy Discrimination Act 1978, ADA 1990, FMLA 1993, Lilly Ledbetter Fair Pay Act 2009, *Bostock v. Clayton County* 2020. Each anchor labeled with one-line description of what it recognized. Student should notice the thirty-year gap between the framing era of the 1960s-70s and the consolidation decade of the 2010s — and that *Bostock* is the most recent anchor, produced by a specific named person.] -->
+![A timeline of major U](images/08-recognizing-and-respecting-the-rights-of-all-fig-01.png)
+*Figure 8.1 — A timeline of major U*
 
 ---
 
@@ -36,7 +37,8 @@ The third is labor-pool depth. A firm whose recruiting draws only from a narrow 
 
 Now the data. In 1977, women constituted approximately 48 percent of the U.S. labor force. By 2017, that figure had risen to 57 percent, and the Bureau of Labor Statistics projects continued expansion. Women are now the majority of the U.S. labor force. The firm whose hiring assumes a male majority is operating on a 1970s map.
 
-<!-- → [CHART: Line chart of U.S. female labor-force participation rate, 1977–2024, rising from ~48% to ~58%. A second line on the same chart shows female share of leadership roles across the S&P 500 over the same period. Student should notice the gap between aggregate participation and leadership representation — that is where the unfinished diversity work lives.] -->
+![Line chart of U](images/08-recognizing-and-respecting-the-rights-of-all-fig-02.png)
+*Figure 8.2 — Line chart of U*
 
 The technology sector illustrates what failure to update that map looks like. Google's published workforce demographics in 2017 — approximately 30 percent women, fewer than 20 percent in technical roles, 56 percent white, 35 percent Asian, 3.5 percent Latino, 2.4 percent Black — became the subject of an internal memo by an engineer named James Damore arguing that the gender gap reflected biological differences. Damore was fired. The subsequent litigation continued through the early 2020s. What the episode illustrated is that the political complexity of diversity work operates even inside firms that are publicly committed to it.
 
@@ -56,7 +58,11 @@ The Americans with Disabilities Act of 1990 prohibits discrimination against qua
 
 The structure of the accommodation framework is worth understanding clearly. The accommodation must be *reasonable* — not transformative of the essential nature of the job. It must be *individualized* — calibrated to the specific employee's specific need, not applied uniformly. And when a need arises, the firm must engage in an *interactive process* with the employee to identify possible accommodations. Failure to engage in the interactive process is, by itself, a violation under EEOC enforcement. The process is not a single decision. It is an ongoing dialogue.
 
-<!-- → [TABLE: Three-column table defining the accommodation framework — columns: term, definition, what failure looks like. Rows: reasonable accommodation (modification to enable essential job function / elimination of essential job functions is not accommodation), individualized (calibrated to the specific employee's specific need / Verizon's uniform attendance policy is the failure mode), interactive process (ongoing dialogue between employer and employee / refusing to engage at all is itself a violation). Student should use this as a checklist for any accommodation scenario.] -->
+| term | definition | what failure looks like |
+| --- | --- | --- |
+| reasonable accommodation (modification to enable essential job function | elimination of essential job functions is not accommodation | The pattern becomes easy to misuse or overlook. |
+| individualized (calibrated to the specific employee's specific need | Verizon's uniform attendance policy is the failure mode | The pattern becomes easy to misuse or overlook. |
+| interactive process (ongoing dialogue between employer and employee | refusing to engage at all is itself a violation). Student should use this as a checklist for any accommodation scenario. | The pattern becomes easy to misuse or overlook. |
 
 The same framework applies to religious belief and practice, and produced one of the most consequential recent employment cases.
 
@@ -82,7 +88,8 @@ What makes the episode worth carrying through this section is what it demonstrat
 
 Now the underlying economics. The share of total U.S. pre-tax income captured by the top 1 percent of earners has roughly tripled over the last forty years — from approximately 8 percent in the late 1970s to approximately 22 percent in recent measurements. The share of U.S. households classified as middle-income has declined from approximately 60 percent in 1970 to approximately 47 percent. The downward movement has been substantially larger than the upward.
 
-<!-- → [CHART: Two-panel chart. Panel 1: share of total U.S. pre-tax income captured by the top 1%, 1978–2024, showing the rise from ~8% to ~22%. Panel 2: share of U.S. households classified as middle-income (two-thirds to twice the national median), 1970–2024, showing the decline from ~60% to ~47%. Student should notice the two trends run in opposite directions over the same period — and that the middle-income decline has been concentrated in the downward direction.] -->
+![Chart](images/08-recognizing-and-respecting-the-rights-of-all-fig-03.png)
+*Figure 8.3 — Chart*
 
 Against this background, the post-2010 *Fight for $15* organizing movement has produced $15-per-hour minimum wages in California, New York, Massachusetts, Connecticut, and many major cities. Several large corporate employers — Costco, Starbucks, Target, Wells Fargo, PNC Financial, Fifth Third Bank — raised their internal minimums above federal levels ahead of legislation. Most of those wage increases have been associated with employee-retention gains and customer-loyalty gains that exceeded the wage cost. The pattern is the same one the chapter has been tracking throughout: the proactive move is almost always the cheaper one.
 
@@ -90,7 +97,9 @@ The specific legal mechanism worth understanding here is the pay-equity standard
 
 The New Jersey Diane B. Allen Equal Pay Act, signed in April 2018, amended state law to require equal pay for *substantially similar work* — work whose required skill, effort, and responsibility are comparable, even if the formal job descriptions differ. California's Fair Pay Act and the Massachusetts Equal Pay Act of 2018 adopted similar standards. The *substantially similar* standard closes the loophole. The firm operating in a state with the more demanding standard is subject to it; the firm in a state without it remains subject to the federal floor and to the operative-culture pressure of its employees, customers, and competitors.
 
-<!-- → [TABLE: Two-column comparison — "equal work standard (federal floor)" vs. "substantially similar work standard (state-level advance)." Rows: legal definition, what it requires employers to compare, the loophole it opens or closes, states currently operating under the more demanding standard. Student should use this to quickly assess which standard applies in their operating jurisdiction.] -->
+| Item | Meaning |
+| --- | --- |
+| legal definition, what it requires employers to compare, the loophole it opens or closes, states currently operating under the more demanding standard. Student should use this to quickly assess which standard applies in their operating jurisdiction. | A specific, evidence-linked version that readers can verify. |
 
 The final extension of the rights-of-all framework is the one most business-school curricula have historically excluded: the rights of animals.
 
@@ -110,7 +119,13 @@ The chapter has documented the economics of leading versus trailing that forcing
 
 In each case, the proactive option cost more in the year it was taken. In each case, the reactive option cost more over the decade that followed. The chapter's working argument is that this pattern is not coincidental. It is structural. The rights-of-all framework is not a fixed list. It is an expanding recognition. The firms that lead that expansion — that see the next recognition coming before the courts announce it — are operating with an asset that is genuinely scarce, genuinely durable, and genuinely theirs.
 
-<!-- → [TABLE: Four-row summary of the chapter's lead-vs-trail pattern — rows: workforce diversity, accommodation practices, minimum-wage floor, cruelty-free sourcing. Columns: "firms that led" (what they did, when), "firms that trailed" (their reactive response), "cost of leading" (short-run), "cost of trailing" (long-run). Student should see the structural pattern: proactive costs are concentrated and short; reactive costs are diffuse and long.] -->
+| firms that led" (what they did | when) | firms that trailed" (their reactive response) | cost of leading" (short-run) | cost of trailing" (long-run) |
+| --- | --- | --- | --- | --- |
+| workforce diversity, accommodation practices, minimum-wage floor, cruelty-free sourcing. Columns: "firms that led" (what they did, when | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| "firms that trailed" (their reactive response | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| "cost of leading" (short-run | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| "cost of trailing" (long-run). Student should see the structural pattern: proactive costs are concentrated and short | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| reactive costs are diffuse and long. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 Aimee Stephens did not live to see the protection her case produced. The firms that had already built that protection into their operative culture before June 2020 did not need the Supreme Court to tell them. They were already there.
 
@@ -144,3 +159,37 @@ Who was Sojourner Truth, and how does her advocacy for intersecting rights conne
 - Ask it about Truth's lawsuit against a white man who had illegally sold her son into slavery in Alabama — one of the first such successful suits by a Black woman.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 8.1 — A timeline of major U
+
+Create a standalone D3 v7 HTML file for Figure A timeline of major U. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A timeline of major U.S. workplace-rights statutes and decisions, running 1963 to 2020. Anchor points: Equal Pay Act 1963, Civil Rights Act / Title VII 1964, Age Discrimination in Employment Act 1967, Pregnancy Discrimination Act 1978, ADA 1990, FMLA 1993, Lilly Ledbetter Fair Pay Act 2009, *Bostock v. Clayton County* 2020. Each anchor labeled with one-line description of what it recognized. Student should notice the thirty-year gap between the framing era of the 1960s-70s and the consolidation decade of the 2010s — and that *Bostock* is the most recent anchor, produced by a specific named person.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mon
+
+> Reference implementation: `d3/08-recognizing-and-respecting-the-rights-of-all-fig-01.html`
+
+---
+
+### Figure 8.2 — Line chart of U
+
+Create a standalone D3 v7 HTML file for Figure Line chart of U. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Line chart of U.S. female labor-force participation rate, 1977–2024, rising from ~48% to ~58%. A second line on the same chart shows female share of leadership roles across the S&P 500 over the same period. Student should notice the gap between aggregate participation and leadership representation — that is where the unfinished diversity work lives.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/08-recognizing-and-respecting-the-rights-of-all-fig-02.html`
+
+---
+
+### Figure 8.3 — Chart
+
+Create a standalone D3 v7 HTML file for Figure Chart. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Two-panel chart. Panel 1: share of total U.S. pre-tax income captured by the top 1%, 1978–2024, showing the rise from ~8% to ~22%. Panel 2: share of U.S. households classified as middle-income (two-thirds to twice the national median), 1970–2024, showing the decline from ~60% to ~47%. Student should notice the two trends run in opposite directions over the same period — and that the middle-income decline has been concentrated in the downward direction.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/08-recognizing-and-respecting-the-rights-of-all-fig-03.html`

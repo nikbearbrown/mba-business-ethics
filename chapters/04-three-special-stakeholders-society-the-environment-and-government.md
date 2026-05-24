@@ -11,7 +11,8 @@ Trafigura, who chose the cheap disposal route. The contractor who took the contr
 
 That structure — distributed responsibility, no single villain, damage radiating outward across populations that never agreed to bear it — is the structure this chapter is about. The three stakeholders it covers are society, the environment, and government. They appear on every serious stakeholder map. They are also, in practice, the three most commonly treated as background: the assumed condition of doing business rather than the named parties whose claims have to be satisfied. The Côte d'Ivoire case is what happens when all three are treated as background at the same time.
 
-<!-- → [INFOGRAPHIC: A web diagram centered on "Probo Koala / Abidjan, August 2006." Six nodes radiating outward, each labeled with one responsible party: Trafigura (commodity trader), Compagnie Tommy (contractor), Ivorian permitting officials, Dutch port authority, International shipping regime, European industrial process. Each node connected to the center with a line; no single node labeled "the villain." A legend note: "Each party bears partial responsibility. None is sufficient alone." Reader should notice the structure of distributed responsibility — this diagram recurs conceptually throughout the chapter whenever multiple parties share a harm.] -->
+![A web diagram centered on "Probo Koala /](images/04-three-special-stakeholders-society-the-environment-and-government-fig-01.png)
+*Figure 4.1 — A web diagram centered on "Probo Koala /*
 
 ---
 
@@ -33,7 +34,8 @@ The legal doctrine has, slowly and unevenly, been catching up to this. *Shlensky
 
 Whether those commitments changed operational behavior is an empirical question. That they changed the public language of corporate purpose is not. The arc from *Dodge v. Ford* to the Business Roundtable statement is one hundred years of a doctrine being gradually undermined by its own inadequacy. It described what one set of interests required of the corporation. It never fully explained what the corporation required of society in order to operate, and therefore what the corporation owed society in return.
 
-<!-- → [INFOGRAPHIC: A horizontal timeline from 1919 to 2019, labeled "100 years of shareholder primacy in tension." Four anchor points: 1919 — Dodge v. Ford (shareholder primacy established); 1968 — Shlensky v. Wrigley (management discretion to weigh community interests upheld); 2014 — Burwell v. Hobby Lobby (corporate moral standing expanded beyond profit); August 2019 — Business Roundtable statement abandoning shareholder primacy. Each point annotated with one sentence stating what shifted. Reader should notice the arc is not linear decline but a hundred-year argument still in progress.] -->
+![A horizontal timeline from 1919 to 2019, labeled](images/04-three-special-stakeholders-society-the-environment-and-government-fig-02.png)
+*Figure 4.2 — A horizontal timeline from 1919 to 2019, labeled*
 
 That owed-in-return is the *moral minimum*. Not the full set of ethical obligations a fully ethical firm would honor — the moral minimum is a floor, not a ceiling — but the baseline below which conduct is condemned regardless of what the local legal system happens to permit. The moral minimum includes the duty not to inflict avoidable harm, the duty not to deceive or coerce, and the duty to honor commitments. Trafigura, operating below the moral minimum in Côte d'Ivoire, had not found an ambiguous zone. It had found a place where the law permitted something the moral minimum did not.
 
@@ -61,7 +63,12 @@ There are three main instruments for addressing this, and they work from differe
 
 *Earth jurisprudence* is the position that the natural environment itself should have legal standing — that a river, a watershed, a species, can be a legal party with human representatives speaking on its behalf. Ecuador's 2008 Constitution incorporates the doctrine. New Zealand recognized the Whanganui River as a legal person in 2017. Several U.S. municipalities have passed similar ordinances. The doctrine is contested but in active legal development.
 
-<!-- → [TABLE: Side-by-side comparison of the four environmental policy instruments. Columns: Instrument, What it controls, Certainty it provides, Certainty it lacks, Primary strength, Operational example. Rows: Cap-and-trade (EU ETS, California), Carbon tax (40+ countries), Standards-based (ISO 14000, LEED), Earth jurisprudence (Ecuador, Whanganui River). Reader should notice that no single instrument covers all failure modes — the strongest regimes layer multiple instruments, each covering a weakness of the others.] -->
+| Instrument | What it controls | Certainty it provides | Certainty it lacks | Primary strength |
+| --- | --- | --- | --- | --- |
+| Cap-and-trade (EU ETS, California | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Carbon tax (40+ countries | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Standards-based (ISO 14000, LEED | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Earth jurisprudence (Ecuador, Whanganui River). Reader should notice that no single instrument covers all failure modes | the strongest regimes layer multiple instruments, each covering a weakness of the others. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 The empirical case for treating the environment as something other than a free input has, over the last twenty years, become substantially stronger than its critics allow. Corporate Knights' Global 100 index — the hundred most sustainable large public companies, ranked annually since 2005 — has modestly outperformed the MSCI All Country World Index over its lifespan. McKinsey's 2016 survey of 2,500 executives across thirty-five countries found that cost reduction, not reputation, was the single most-cited rationale for sustainability investments. Dell's flexible-work program avoids roughly 7,000 metric tons of emissions annually and saves approximately twelve million dollars per year in facility and commute costs. Cisco's sustainability requirements built into supplier contracts have reduced supply-chain disruption risk measurably. Siemens' energy-efficiency position is the highest in its industrial-conglomerate sector; it is also directly reflected in lower per-facility operating costs.
 
@@ -85,11 +92,14 @@ The revolving door is not corrupt by definition. Expertise developed on one side
 
 The specific failure at Deepwater Horizon was an acoustic shutoff valve — a backup safety device triggered remotely, designed to seal the wellbore automatically if surface control is lost. Norway and Brazil both require acoustic shutoff on offshore wells. The United States did not. The Minerals Management Service had considered the requirement, received lobbying against it from the industry, and declined to mandate it. The cost of an acoustic shutoff valve: approximately five hundred thousand dollars per well. The eventual cost of the spill — BP's twenty-billion-dollar settlement, criminal fines, federal and state claims, the long-tail environmental and economic damages — exceeded sixty-five billion dollars. The five-hundred-thousand-dollar safety investment that did not get made was the most expensive money BP and Transocean ever declined to spend.
 
-<!-- → [CHART: Single-bar comparison chart. Left bar: "$500,000 — cost of acoustic shutoff valve per well." Right bar: "$65,000,000,000+ — total cost of Deepwater Horizon spill (settlements, fines, environmental damages, long-tail claims)." Scale is logarithmic to make both bars legible. Caption: "The deferred investment and its consequence, at scale." Reader should notice the 130,000x ratio — this is the quantitative form of the chapter's central argument about what it costs to treat a stakeholder as background.] -->
+![The deferred investment and its consequence, at scale.](images/04-three-special-stakeholders-society-the-environment-and-government-fig-03.png)
+*Figure 4.3 — Single-bar comparison chart*
 
 The Norwegian comparison is instructive not because Norway is virtuous and the United States is not, but because the institutional structures are different in ways that produce measurably different outcomes. The Norwegian Petroleum Safety Authority requires acoustic shutoff. It requires independent safety auditing, not industry self-reporting. It requires public posting of incident reports. Equinor, the dominant Norwegian offshore operator, is majority state-owned — which means the Norwegian government has a direct stake in the long-term environmental outcomes of Norwegian offshore operations, not just the short-term revenue. The per-barrel environmental incident rate in Norwegian offshore operations is, over the relevant history, roughly one-tenth the rate in U.S. Gulf operations. The difference is not cultural. It is institutional.
 
-<!-- → [TABLE: Institutional comparison — U.S. (MMS/BSEE) vs. Norway (Petroleum Safety Authority) vs. Brazil (ANP/Petrobras regime). Rows: acoustic shutoff requirement, safety audit independence, incident report transparency, state ownership stake in operator, per-barrel incident rate (relative). Each cell: Yes/No or a brief descriptor. Reader should notice that the outcome row (incident rate) tracks the institutional-feature rows, not the cultural or resource rows — the argument is that structure produces outcomes.] -->
+| Item | Meaning |
+| --- | --- |
+| acoustic shutoff requirement, safety audit independence, incident report transparency, state ownership stake in operator, per-barrel incident rate (relative). Each cell: Yes | No or a brief descriptor. Reader should notice that the outcome row (incident rate) tracks the institutional-feature rows, not the cultural or resource rows |
 
 Regulation is conventionally framed as friction — compliance cost, documentation burden, obstacles to transactions. The framing is accurate at the surface and incomplete underneath. Regulation's purpose is to internalize the externalities that the market on its own does not internalize. The firm that cuts costs by deferring safety investment is transferring cost to its workers, its surrounding environment, and the public. The regulation that requires the safety investment is explicitly allocating that cost back to the firm. There is no zero-cost option. The regulation is choosing where the cost lands.
 
@@ -173,3 +183,37 @@ Who was Donella Meadows, and how does her systems-dynamics environmental work co
 - Ask it about Meadows's "leverage points" essay — where small changes in a system can produce large effects.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 4.1 — A web diagram centered on "Probo Koala /
+
+Create a standalone D3 v7 HTML file for Figure A web diagram centered on "Probo Koala /. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A web diagram centered on "Probo Koala / Abidjan, August 2006." Six nodes radiating outward, each labeled with one responsible party: Trafigura (commodity trader), Compagnie Tommy (contractor), Ivorian permitting officials, Dutch port authority, International shipping regime, European industrial process. Each node connected to the center with a line; no single node labeled "the villain." A legend note: "Each party bears partial responsibility. None is sufficient alone." Reader should notice the structure of distributed responsibility — this diagram recurs conceptually throughout the chapter whenever multiple parties share a harm.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only 
+
+> Reference implementation: `d3/04-three-special-stakeholders-society-the-environment-and-government-fig-01.html`
+
+---
+
+### Figure 4.2 — A horizontal timeline from 1919 to 2019, labeled
+
+Create a standalone D3 v7 HTML file for Figure A horizontal timeline from 1919 to 2019, labeled. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A horizontal timeline from 1919 to 2019, labeled "100 years of shareholder primacy in tension." Four anchor points: 1919 — Dodge v. Ford (shareholder primacy established); 1968 — Shlensky v. Wrigley (management discretion to weigh community interests upheld); 2014 — Burwell v. Hobby Lobby (corporate moral standing expanded beyond profit); August 2019 — Business Roundtable statement abandoning shareholder primacy. Each point annotated with one sentence stating what shifted. Reader should notice the arc is not linear decline but a hundred-year argument still in progress.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono 
+
+> Reference implementation: `d3/04-three-special-stakeholders-society-the-environment-and-government-fig-02.html`
+
+---
+
+### Figure 4.3 — Single-bar comparison chart
+
+Create a standalone D3 v7 HTML file for Figure Single-bar comparison chart. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Single-bar comparison chart. Left bar: "$500,000 — cost of acoustic shutoff valve per well." Right bar: "$65,000,000,000+ — total cost of Deepwater Horizon spill (settlements, fines, environmental damages, long-tail claims)." Scale is logarithmic to make both bars legible. Caption: "The deferred investment and its consequence, at scale." Reader should notice the 130,000x ratio — this is the quantitative form of the chapter's central argument about what it costs to treat a stakeholder as background.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/04-three-special-stakeholders-society-the-environment-and-government-fig-03.html`

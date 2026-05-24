@@ -19,7 +19,8 @@ Let me start with what ethics is *not*, because the confusions here are old and 
 
 Ethics is not the same thing as law. The law lags behind ethics in virtually every domain where the question is alive. Slavery was legal for most of recorded human history, long after it was understood to be wrong by the people practicing it — long after it was understood, by many of the slaveowners themselves, to be wrong. Advertising cigarettes to children on television was legal in the United States until the 1960s, long after the internal documents of tobacco companies showed they understood the product was lethal. Insider trading — buying or selling stock on information the public doesn't have — was legal in the U.S. until Congress made it illegal in stages between 1934 and 1988. *Legal* and *ethical* are two different axes. A four-celled diagram would put them at right angles to each other: legal-and-ethical, legal-and-unethical, illegal-and-ethical, illegal-and-unethical. Most of the interesting cases in business ethics — most of the real decisions you will face — live in the cell that rarely gets named aloud: legal and unethical.
 
-<!-- → [INFOGRAPHIC: Two-by-two matrix with axes "Legal / Illegal" (horizontal) and "Ethical / Unethical" (vertical). Four cells labeled with one concrete example each: legal/ethical — paying employees a living wage; legal/unethical — the Equifax executives' stock sales; illegal/ethical — a whistleblower disclosing internal wrongdoing; illegal/unethical — Enron's accounting fraud. The reader should notice that the upper-right cell (legal/unethical) is where the chapter's cases live and where most real business-ethics decisions occur.] -->
+![Two-by-two matrix with axes "Legal / Illegal" (horizontal)](images/01-why-ethics-matter-fig-01.png)
+*Figure 1.1 — Two-by-two matrix with axes "Legal / Illegal" (horizontal)*
 
 Ethics is also not the same thing as religion. Most religious traditions teach honesty, fairness, and respect for other people, and those teachings are genuinely useful. But the claim that you should treat other people fairly doesn't require a religious premise. It can run on a secular battery. You can be an atheist and a person of integrity. You can be devout and corrupt. The questions — *what do you believe about the universe* and *how do you treat the cashier* — do not have to track each other.
 
@@ -39,7 +40,9 @@ One more term that will do heavy lifting throughout this book: **stakeholders**.
 
 A practical test of whether you're doing ethics or doing public relations: a real stakeholder analysis names individuals or groups in writing and specifies how each would be affected. If you can't name them, you're not analyzing. You're performing.
 
-<!-- → [TABLE: Blank stakeholder analysis template — three columns: "Stakeholder (named specifically)," "Their interest," "Likely impact of this decision." Three pre-filled example rows using J.'s cousin scenario: J. herself, the store manager, the cousin. Reader should notice that naming the rows changes how the decision feels compared to the abstract phrase "it affects people." Intended to be reproduced by students for any exercise in the chapter.] -->
+| Stakeholder (named specifically) | "Their interest | "Likely impact of this decision |
+| --- | --- | --- |
+| Blank stakeholder analysis template | three | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -83,7 +86,8 @@ The honest move is to use all three, together. A decision that looks clean throu
 
 Aristotle named the capacity to take a general principle and apply it well to a specific situation *phronesis* — practical wisdom. It's what separates someone who knows what utilitarianism says from someone who can actually use it to make a decision in a meeting that's running late. Knowing the frameworks is the prerequisite. Practical wisdom is what makes them work.
 
-<!-- → [DIAGRAM: One decision (a box in the center) with three labeled arrows pointing into it from three directions — "ENDS: who is helped/harmed and by how much (Consequentialism)," "MEANS: which duties are honored or violated (Deontology)," "CHARACTER: what kind of person does this make me (Virtue Ethics)." A fourth smaller annotation off to the side reading "Phronesis: the capacity to apply any of these well in a specific situation." Reader should notice that all three arrows converge on the same decision — they are not alternative paths but simultaneous angles of view.] -->
+![One decision (a box in the center) with](images/01-why-ethics-matter-fig-02.png)
+*Figure 1.2 — One decision (a box in the center) with*
 
 ---
 
@@ -105,7 +109,8 @@ The Nobel laureate Milton Friedman argued in 1970 that the only social responsib
 
 Warren Buffett has summarized the long-game test in a single sentence: *do nothing you would not be happy to have an unfriendly but intelligent reporter write about on the front page of a newspaper.* His other sentence on the matter is sharper: *lose money for the firm, even a lot of money, and I will be understanding; lose reputation for the firm, even a shred of reputation, and I will be ruthless.* The asymmetry is the lesson. Money is recoverable. Reputation — on the time scale Buffett actually operates, which is decades — is not.
 
-<!-- → [CHART: Two curves on a single axis — x-axis is time in years (0–10), y-axis is cumulative cost/value to the firm. Curve 1 ("short-horizon ethical shortcut"): rises steeply in years 1–2, peaks, then declines sharply as litigation, regulatory, and reputational costs compound. Curve 2 ("long-horizon ethical investment"): rises slowly in years 1–3, then accelerates, crossing Curve 1 around year 4–5 and continuing upward. Reader should notice the crossing point: any time horizon shorter than that crossing will give the wrong answer about which approach costs more.] -->
+![Two curves on a single axis ](images/01-why-ethics-matter-fig-03.png)
+*Figure 1.3 — Two curves on a single axis *
 
 ---
 
@@ -123,7 +128,10 @@ The executives who chose the first path were not being economically rational. Th
 
 This is the pattern. Most business-ethics failures are not failures of values in opposition to economics. They are failures of *time horizon*: someone solving for the next ninety days when the firm's actual life is measured in decades.
 
-<!-- → [TABLE: Side-by-side comparison of Equifax Option A (what was done) vs. Option B (what could have been done). Rows: stock sales decision, disclosure timing, credit monitoring offer, executive accountability action, share price outcome, litigation exposure, approximate total cost (years 1–5), reputational trajectory. Reader should notice that costs in the first 90 days are similar across both options, and diverge sharply afterward — the table makes visible the time-horizon argument the prose makes.] -->
+| Item | Meaning |
+| --- | --- |
+| stock sales decision, disclosure timing, credit monitoring offer, executive accountability action, share price outcome, litigation exposure, approximate total cost (years 1–5 | A concrete checkpoint for applying the chapter concept. |
+| reputational trajectory. Reader should notice that costs in the first 90 days are similar across both options, and diverge sharply afterward | the table makes visible the time-horizon argument the prose makes. |
 
 ---
 
@@ -149,7 +157,8 @@ And the long game? The time horizon Faris used in 2001 was the next quarter — 
 
 After his release, Faris founded a small company called MPV Ethics and began speaking at universities and corporate trainings, frequently alongside Hank Shea, a law professor at the University of St. Thomas and a former federal prosecutor. He explains how a person who would have refused a $100,000 bribe in 2000 was, by 2002, calmly operating the scheme he'd once imagined he could never be drawn into. The story is not a redemption arc designed to flatter either teller or audience. It is a record of what the decay of integrity actually looks like from the inside — exception by exception, small accommodation by small accommodation — and what the recovery costs. Virtue ethics claims that character is built one habit at a time. It runs in both directions. Faris's two acts together are the most honest illustration of both halves.
 
-<!-- → [INFOGRAPHIC: A timeline of the Faris case in two tracks running in parallel. Track 1 (Faris's internal view): Jan 2001 — first fraudulent claim filed; monthly markers through Aug 2002 showing the scheme operating, labeled "each exception feels contained." Track 2 (external reality): 2003–2007 blank ("audit accumulating"); 2008 — federal indictment; Jul 2009 — sentencing; 2010 — release from Duluth; 2013 — restitution completed; ongoing — public record. Reader should notice the gap between the two tracks: the internal view ended in 2002, but the external consequences ran eleven more years. This is the visual form of the time-horizon argument applied to an individual.] -->
+![A timeline of the Faris case in two](images/01-why-ethics-matter-fig-04.png)
+*Figure 1.4 — A timeline of the Faris case in two*
 
 ---
 
@@ -199,3 +208,45 @@ Who was Mary Parker Follett, and how does her work on conflict integration and o
 - Ask it about why Follett's work was forgotten for decades after her death — and how it was revived.
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 1.1 — Two-by-two matrix with axes "Legal / Illegal" (horizontal)
+
+Create a standalone D3 v7 HTML file for Figure Two-by-two matrix with axes "Legal / Illegal" (horizontal). Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Two-by-two matrix with axes "Legal / Illegal" (horizontal) and "Ethical / Unethical" (vertical). Four cells labeled with one concrete example each: legal/ethical — paying employees a living wage; legal/unethical — the Equifax executives' stock sales; illegal/ethical — a whistleblower disclosing internal wrongdoing; illegal/unethical — Enron's accounting fraud. The reader should notice that the upper-right cell (legal/unethical) is where the chapter's cases live and where most real business-ethics decisions occur.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/01-why-ethics-matter-fig-01.html`
+
+---
+
+### Figure 1.2 — One decision (a box in the center) with
+
+Create a standalone D3 v7 HTML file for Figure One decision (a box in the center) with. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: One decision (a box in the center) with three labeled arrows pointing into it from three directions — "ENDS: who is helped/harmed and by how much (Consequentialism)," "MEANS: which duties are honored or violated (Deontology)," "CHARACTER: what kind of person does this make me (Virtue Ethics)." A fourth smaller annotation off to the side reading "Phronesis: the capacity to apply any of these well in a specific situation." Reader should notice that all three arrows converge on the same decision — they are not alternative paths but simultaneous angles of view.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/01-why-ethics-matter-fig-02.html`
+
+---
+
+### Figure 1.3 — Two curves on a single axis 
+
+Create a standalone D3 v7 HTML file for Figure Two curves on a single axis . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Two curves on a single axis — x-axis is time in years (0–10), y-axis is cumulative cost/value to the firm. Curve 1 ("short-horizon ethical shortcut"): rises steeply in years 1–2, peaks, then declines sharply as litigation, regulatory, and reputational costs compound. Curve 2 ("long-horizon ethical investment"): rises slowly in years 1–3, then accelerates, crossing Curve 1 around year 4–5 and continuing upward. Reader should notice the crossing point: any time horizon shorter than that crossing will give the wrong answer about which approach costs more.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/01-why-ethics-matter-fig-03.html`
+
+---
+
+### Figure 1.4 — A timeline of the Faris case in two
+
+Create a standalone D3 v7 HTML file for Figure A timeline of the Faris case in two. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A timeline of the Faris case in two tracks running in parallel. Track 1 (Faris's internal view): Jan 2001 — first fraudulent claim filed; monthly markers through Aug 2002 showing the scheme operating, labeled "each exception feels contained." Track 2 (external reality): 2003–2007 blank ("audit accumulating"); 2008 — federal indictment; Jul 2009 — sentencing; 2010 — release from Duluth; 2013 — restitution completed; ongoing — public record. Reader should notice the gap between the two tracks: the internal view ended in 2002, but the external consequences ran eleven more years. This is the visual form of the time-horizon argument applied to an individual.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in t
+
+> Reference implementation: `d3/01-why-ethics-matter-fig-04.html`

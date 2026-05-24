@@ -26,7 +26,8 @@ The companion concept is acculturation — what happens when a person formed in 
 
 Now: these processes do not stop at the firm's front door. The executive who walks into a Bangkok negotiation has been enculturated into a specific theory of what business is, how time works, what a contract means, and who speaks first. The counterparty across the table has been enculturated into a different theory on every one of those points. Neither theory is written down. Neither feels like a theory to the people holding it. Both feel like *reality*.
 
-<!-- → [INFOGRAPHIC: Two parallel columns — "Executive from firm A" and "Counterparty from firm B" — each with four rows showing their enculturated assumptions about time (linear/scarce vs. relational/ceremonial), contracts (written/comprehensive vs. oral/trust-based), persons (autonomous individuals vs. family/community embedded), and disputes (go to court vs. mediated through relationship). Caption: "Neither column is labeled right or wrong. Both feel like reality to the person inside them."] -->
+![Neither column is labeled right or wrong. Both feel like reality to the person inside them.](images/05-the-impact-of-culture-and-time-on-business-ethics-fig-01.png)
+*Figure 5.1 — Two parallel columns *
 
 Several specific mechanisms are worth naming because they show up in business ethics most directly.
 
@@ -34,7 +35,11 @@ Several specific mechanisms are worth naming because they show up in business et
 
 **Stated beliefs and operative beliefs are different things.** IBM's stated beliefs — client success, innovation, trust — are the explicit form. What the firm actually does when those beliefs come under financial pressure is the operative form. George W. Merck said it directly in 1950, at the Medical College of Virginia: *We try to remember that medicine is for the patient, not for the profits. The profits follow, and if we have remembered that, they have never failed to appear.* The operative test is whether the behavior under pressure matches the stated belief. Most firms' stated and operative cultures diverge more than their communications suggest.
 
-<!-- → [TABLE: Two-column table — "stated beliefs" vs. "operative beliefs revealed under pressure." Example rows: Merck's 1950 statement vs. Merck's opioid-era decisions; IBM's stated innovation values vs. workforce-reduction patterns; a generic bank's customer-first mission statement vs. its incentive-compensation structure. Caption: "The right column is the operative culture. The left column is, at best, an aspiration."] -->
+| Item | Meaning |
+| --- | --- |
+| Merck's 1950 statement vs. Merck's opioid-era decisions | A concrete checkpoint for applying the chapter concept. |
+| IBM's stated innovation values vs. workforce-reduction patterns | A concrete checkpoint for applying the chapter concept. |
+| a generic bank's customer-first mission statement vs. its incentive-compensation structure. | A concrete checkpoint for applying the chapter concept. |
 
 **Consumerism is not the natural form of economic life.** The lifestyle organized around the acquisition of goods and services — what American economists in 1950 called the consumer society — is globally dominant by measured share but is one cultural form among several that have existed and that still exist. Other forms (collective consumption, religiously-mediated restraint, subsistence with cultural wealth) are real and, in some circumstances, viable. A firm whose marketing assumes the consumer-society default is, often, exporting that default to markets where it will produce specific consequences the firm has not been asked about.
 
@@ -50,7 +55,8 @@ A photograph from a New York office in 1957 shows a typical scene. Half the peop
 
 Sixty years later, most of those office workers are dead, several from lung cancer. The ashtrays are gone. The 1957 photograph reads as historical evidence of a different culture — not a recognizable office.
 
-<!-- → [IMAGE: A period photograph of a 1950s American office interior showing multiple people smoking at desks — ideally a press or stock photograph from that era. Caption: "1957: normal. The ethics did not change. What society was willing to enforce did."] -->
+![1957: normal. The ethics did not change. What society was willing to enforce did.](images/05-the-impact-of-culture-and-time-on-business-ethics-fig-02.png)
+*Figure 5.2 — A period photograph of a 1950s American office*
 
 Tobacco's transformation from acceptable workplace presence to publicly contested industry took about four decades — from the U.S. Surgeon General's January 1964 report to the 2006 federal racketeering judgment in *United States v. Philip Morris*. The shift was not a change in tobacco's biology. The shift was a change in what the surrounding society was willing to allow, regulate, or tolerate. Time changed business ethics around tobacco. It did not change tobacco.
 
@@ -66,7 +72,8 @@ That engine — what society is willing to enforce, not what is intrinsically ri
 
 **The globalization era and what comes next** (2010 onward). The early-2000s confidence that globalization would produce convergence has been complicated by the populist reactions of the 2010s — Brexit, the U.S. tariff regimes, the partial withdrawal of supply chains from China, the resurgence of national-economic-sovereignty movements across multiple countries. The era's characteristic ethical question may turn out to be the management of obligations across jurisdictions whose legal-political alignment with one another can no longer be assumed.
 
-<!-- → [INFOGRAPHIC: A horizontal timeline from 1500 to 2030 with the five eras as labeled bands. Each band contains its characteristic ethical question as a one-line callout and one defining case (Manhattan 1626 / factory conditions 1840 / Lucky Strike 1929 / Cambridge Analytica 2018 / supply-chain jurisdiction 2020s). Student should notice: each era's defining question was invisible in the previous era, and each era's settled answers were contested in the one before.] -->
+![A horizontal timeline from 1500 to 2030 with](images/05-the-impact-of-culture-and-time-on-business-ethics-fig-03.png)
+*Figure 5.3 — A horizontal timeline from 1500 to 2030 with*
 
 The key insight here is not the list. The key insight is that ethical questions are era-specific. What was contested in one era became settled in the next. What was unimagined in one era became central in the next. The firm that does not know which era it is operating in — and what questions *that era* is raising — is, in the plainest sense, historically illiterate. And historical illiteracy in business ethics produces the same result as any other kind: you repeat mistakes that a faster learner would have avoided.
 
@@ -94,7 +101,9 @@ Several specific dimensions of cultural variation affect business ethics most di
 
 One concept worth carrying forward: *stewardship* — the idea that wealth and resources are held by their possessor on behalf of someone else, with a duty of care attached — appears in Jewish, Christian, Islamic, Hindu, Buddhist, and indigenous African and American religious frameworks. Different theological underpinnings, considerable practical overlap. The convergence is not coincidental. It points toward something that every major tradition that has thought hard about wealth has arrived at independently: the person with resources is not simply the owner. They are also a trustee.
 
-<!-- → [TABLE: Five-row table showing stewardship across religious traditions — rows: Judaism, Christianity, Islam, Hinduism/Buddhism, indigenous African/American frameworks. Columns: tradition, theological grounding for stewardship, practical implication for business conduct. Student should notice the convergence in the practical column despite divergence in the theological column — this is evidence that stewardship belongs in the thin universal core.] -->
+| tradition | theological grounding for stewardship | practical implication for business conduct |
+| --- | --- | --- |
+| Judaism, Christianity, Islam, Hinduism | Buddhism, indigenous African | American frameworks. Columns: tradition, theological grounding for stewardship, practical implication for business conduct. Student should notice the convergence in the practical column despite divergence in the theological column |
 
 ---
 
@@ -118,7 +127,8 @@ These five items are the thin universal core. They travel. They cannot be locall
 
 Below the thin core, the thick local norms vary without violating it. *How* honesty is signaled (direct statement versus indirect implication). *How* commitments are made (written contract versus oral promise). *What* counts as appropriate gift-giving. *How* time is allocated in negotiation. *What* religious practices are accommodated. *How* close to stand. These vary legitimately. The thick local does not contradict the thin core; it specifies how the thin core is operationalized in a particular cultural setting.
 
-<!-- → [INFOGRAPHIC: A Venn diagram — left circle labeled "thin universal core" listing the five items; right circle labeled "thick local norms" listing: time orientation, contact distance, gift-giving practice, religious accommodation, oral vs. written commitment preference. Overlap zone labeled "operationalization — the thick local specifies how the thin core is honored in a particular place." Student should notice that the overlap is the zone of legitimate cultural variation, and that the left circle is where cross-cultural defenses fail.] -->
+![A Venn diagram ](images/05-the-impact-of-culture-and-time-on-business-ethics-fig-04.png)
+*Figure 5.4 — A Venn diagram *
 
 The hardest cases are the ones where the firm violates the thin core and *defends the violation by appeal to local norms*. This is where the chapter's machinery reveals its purpose.
 
@@ -140,7 +150,11 @@ The first two options preserve Jillian's energy. The third costs her something r
 
 There is no required answer. The right choice depends on Jillian's health, the audit's intensity, the team's specific expectations. The chapter's point is that the choice *is* a choice, not an inevitability, and that the practitioner who makes it deliberately — with cultural literacy and practical wisdom — is operating at a level the one who stumbles into it is not.
 
-<!-- → [TABLE: Three-column decision matrix for Jillian's Ramadan choice — rows: Option A (eat in office), Option B (leave building), Option C (fast with team). Columns: immediate cost to Jillian, signal sent to team, long-run relationship asset. Student should notice that the option with the highest immediate cost produces the highest long-run asset — and that none of the options violates the thin universal core, making this genuinely a thick-local judgment call.] -->
+| immediate cost to Jillian | signal sent to team | long-run relationship asset |
+| --- | --- | --- |
+| Option A (eat in office | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Option B (leave building | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Option C (fast with team). Columns: immediate cost to Jillian, signal sent to team, long-run relationship asset. Student should notice that the option with the highest immediate cost produces the highest long-run asset | and that none of the options violates the thin universal core, making this genuinely a thick-local judgment call. | A concrete checkpoint for applying the chapter concept. |
 
 That practical wisdom is what the chapter has been building toward. Ethical universalism and cultural sensitivity are not opposed. They are layered. The thin universal core constrains. The thick local variation specifies. The careless practitioner collapses the distinction in one of two directions — either imposing the home culture as if it were universal (Pieter Minuit in 1626) or accepting the local culture as if no universal core existed (the Petrobras apologist in 2015). The honest practitioner operates inside both.
 
@@ -178,3 +192,45 @@ Who was Geert Hofstede, and how do his cultural dimensions connect to the impact
 - Ask it to discuss the major criticisms of Hofstede's framework — when does it oversimplify culture?
 
 What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 5.1 — Two parallel columns 
+
+Create a standalone D3 v7 HTML file for Figure Two parallel columns . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Two parallel columns — "Executive from firm A" and "Counterparty from firm B" — each with four rows showing their enculturated assumptions about time (linear/scarce vs. relational/ceremonial), contracts (written/comprehensive vs. oral/trust-based), persons (autonomous individuals vs. family/community embedded), and disputes (go to court vs. mediated through relationship). Caption: "Neither column is labeled right or wrong. Both feel like reality to the person inside them.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/05-the-impact-of-culture-and-time-on-business-ethics-fig-01.html`
+
+---
+
+### Figure 5.2 — A period photograph of a 1950s American office
+
+Create a standalone D3 v7 HTML file for Figure A period photograph of a 1950s American office. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A period photograph of a 1950s American office interior showing multiple people smoking at desks — ideally a press or stock photograph from that era. Caption: "1957: normal. The ethics did not change. What society was willing to enforce did.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/05-the-impact-of-culture-and-time-on-business-ethics-fig-02.html`
+
+---
+
+### Figure 5.3 — A horizontal timeline from 1500 to 2030 with
+
+Create a standalone D3 v7 HTML file for Figure A horizontal timeline from 1500 to 2030 with. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A horizontal timeline from 1500 to 2030 with the five eras as labeled bands. Each band contains its characteristic ethical question as a one-line callout and one defining case (Manhattan 1626 / factory conditions 1840 / Lucky Strike 1929 / Cambridge Analytica 2018 / supply-chain jurisdiction 2020s). Student should notice: each era's defining question was invisible in the previous era, and each era's settled answers were contested in the one before.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/05-the-impact-of-culture-and-time-on-business-ethics-fig-03.html`
+
+---
+
+### Figure 5.4 — A Venn diagram 
+
+Create a standalone D3 v7 HTML file for Figure A Venn diagram . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A Venn diagram — left circle labeled "thin universal core" listing the five items; right circle labeled "thick local norms" listing: time orientation, contact distance, gift-giving practice, religious accommodation, oral vs. written commitment preference. Overlap zone labeled "operationalization — the thick local specifies how the thin core is honored in a particular place." Student should notice that the overlap is the zone of legitimate cultural variation, and that the left circle is where cross-cultural defenses fail.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/05-the-impact-of-culture-and-time-on-business-ethics-fig-04.html`
