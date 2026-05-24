@@ -186,29 +186,3 @@ Who is Amartya Sen, and how does his capability approach connect to why ethics s
 - Ask it to compare Sen's capability approach with utilitarian and rights-based ethical frameworks.
 
 What changes? What gets better? What gets worse?
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 11.1 — "before and after" timeline, one panel per failure
-
-Create a standalone D3 v7 HTML file for Figure "before and after" timeline, one panel per failure. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Three-panel "before and after" timeline, one panel per failure case. Panel 1 — Gupta: left side "McKinsey global managing director, Goldman Sachs board member, cofounded Indian School of Business, 1994–2009"; right side "federal conviction on three counts securities fraud, two years federal prison, $5M fine, 2012"; elapsed time marked as three years from disclosure to verdict, forty years of boundary drift before it. Panel 2 — GM ignition switch: left side "defect known internally, 2002"; right side "$900M federal settlement, 124+ deaths, 2.6M vehicles recalled, 2014–2015"; elapsed time twelve years of institutional "not yet." Panel 3 — Swanson: left side "Raytheon CEO publishes ethics maxims booklet, 2004"; right side "USA Today plagiarism investigation, booklet withdrawn, compensation reduced, 2006"; elapsed time two years from publication to exposure. Caption beneath all three: "In ev
-
-> Reference implementation: `d3/11-epilogue-why-ethics-still-matter-fig-01.html`
-
----
-
-### Figure 11.2 — A single-page decision-flow reference card for running the
-
-Create a standalone D3 v7 HTML file for Figure A single-page decision-flow reference card for running the. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A single-page decision-flow reference card for running the full apparatus. Five sequential nodes, connected by arrows. Node 1 — "Three lenses (Ch. 1): What does each reveal? Are they aligned or in tension? What does Buffett's reporter write on the correct time horizon?" Node 2 — "Four traditions (Ch. 2): Virtue — what kind of person am I becoming? Utilitarianism — honest harm count across all parties? Kant — can I universalize this? Rawls — would I choose this behind the veil of ignorance?" Node 3 — "Stakeholder map (Ch. 3): Who is affected? Are they all named? Have I asked what each wants?" Node 4 — "Applicable frameworks (Chs. 4–10): Does the decision involve society, environment, government, cross-cultural context, employment duties, industry-specific pressure, or transitional context? If yes, apply the relevant chapter." Node 5 — "Decision you can be held accountable for." Ar
-
-> Reference implementation: `d3/11-epilogue-why-ethics-still-matter-fig-02.html`

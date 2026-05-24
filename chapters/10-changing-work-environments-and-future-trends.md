@@ -168,7 +168,6 @@ The transitions will happen. They are happening. The ethical question is not whe
 
 **Exercise 10.8.** *Open-ended.* Design a corporate policy for a mid-sized U.S. firm (500–2,000 employees, knowledge-work-heavy, currently considering a major AI deployment affecting approximately 150 positions) that addresses all three of the chapter's transitions simultaneously: the hybrid-work flexibility question, the displacement and retraining question, and the AI-disclosure and liability question. The policy should specify: the hybrid-work structure and the visibility-bias mitigation it builds in; the approach to affected positions (attrition, buyouts, redeployment, retraining — with specific terms); and the AI-disclosure and documentation standards for the deployment. Identify the strongest objection to your policy from each of three stakeholders — affected employees, the board, and the firm's customers — and state how the policy addresses each objection. The submission should be 1,500–2,000 words. All empirical claims must cite named sources. Difficulty: hardest.
 
-
 ---
 
 ## LLM Exercises
@@ -198,29 +197,3 @@ Who is Shoshana Zuboff, and how does her work on workplace technology and survei
 - Ask it to discuss the criticisms of Zuboff's "surveillance capitalism" thesis from technology scholars.
 
 What changes? What gets better? What gets worse?
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 10.1 — A horizontal timeline from 1960 to 2030, labeled
-
-Create a standalone D3 v7 HTML file for Figure A horizontal timeline from 1960 to 2030, labeled. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A horizontal timeline from 1960 to 2030, labeled "McDonald's workforce displacement in waves." Five annotated bands: 1960s–70s (standardized food-prep processes, workforce reduction begins); 1990s (digitized order management); 2010s (mobile-app ordering); 2015–present (kiosk rollout — $35k install, 18-month payback, pure margin after); 2025–2030 (McKinsey projection band: 39–73 million U.S. workers facing disruption). Beneath the timeline: a bar showing McDonald's global workforce as a percentage of 1960 baseline — ending at approximately 50% despite a substantially larger customer base. Reader should notice the waves are accelerating and overlapping: no single displacement is complete before the next begins.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for b
-
-> Reference implementation: `d3/10-changing-work-environments-and-future-trends-fig-01.html`
-
----
-
-### Figure 10.2 — Two-column occupation risk matrix
-
-Create a standalone D3 v7 HTML file for Figure Two-column occupation risk matrix. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Two-column occupation risk matrix. Left column header: "High displacement risk" (pattern-matching, classification, routine procedure). Entries: machine operators, factory workers, fast-food workers, cashiers, toll operators, bookkeepers, paralegals, taxi/truck/delivery drivers. Right column header: "Low displacement risk" (unstructured human-to-human interaction, novel judgment). Entries: nurses, physicians, lawyers, teachers, social workers (+19% BLS growth), bartenders, hairstylists, sports coaches, therapists, musicians. Center band between the columns: "The KPMG 50% activities caveat — most jobs contain activities from both columns; displacement reshapes roles before it eliminates them." Reader should notice the pattern: the distinguishing variable is not education level or compensation but the degree to which the work requires recognizing and responding to specific human emotional and cognitive stat
-
-> Reference implementation: `d3/10-changing-work-environments-and-future-trends-fig-02.html`

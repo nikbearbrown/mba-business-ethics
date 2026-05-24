@@ -153,7 +153,6 @@ The single idea that carries forward: these three stakeholders cannot be backgro
 
 **Exercise 4.8.** *Open-ended.* Identify a current or recent case (within the last five years) in which a company, government regulator, and an affected community were all involved in an environmental or public-health harm. Write a 1,500–2,000 word analysis that: (a) maps all stakeholders, naming them specifically; (b) applies the moral minimum to the company's conduct; (c) diagnoses whether regulatory capture was present in the relevant agency, using the three-pressure framework from this chapter; (d) proposes one institutional change that would have reduced the probability of the harm. All factual claims must be traceable to named primary sources. Difficulty: hardest.
 
-
 ---
 
 ## LLM Exercises
@@ -183,37 +182,3 @@ Who was Donella Meadows, and how does her systems-dynamics environmental work co
 - Ask it about Meadows's "leverage points" essay — where small changes in a system can produce large effects.
 
 What changes? What gets better? What gets worse?
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 4.1 — A web diagram centered on "Probo Koala /
-
-Create a standalone D3 v7 HTML file for Figure A web diagram centered on "Probo Koala /. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A web diagram centered on "Probo Koala / Abidjan, August 2006." Six nodes radiating outward, each labeled with one responsible party: Trafigura (commodity trader), Compagnie Tommy (contractor), Ivorian permitting officials, Dutch port authority, International shipping regime, European industrial process. Each node connected to the center with a line; no single node labeled "the villain." A legend note: "Each party bears partial responsibility. None is sufficient alone." Reader should notice the structure of distributed responsibility — this diagram recurs conceptually throughout the chapter whenever multiple parties share a harm.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only 
-
-> Reference implementation: `d3/04-three-special-stakeholders-society-the-environment-and-government-fig-01.html`
-
----
-
-### Figure 4.2 — A horizontal timeline from 1919 to 2019, labeled
-
-Create a standalone D3 v7 HTML file for Figure A horizontal timeline from 1919 to 2019, labeled. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A horizontal timeline from 1919 to 2019, labeled "100 years of shareholder primacy in tension." Four anchor points: 1919 — Dodge v. Ford (shareholder primacy established); 1968 — Shlensky v. Wrigley (management discretion to weigh community interests upheld); 2014 — Burwell v. Hobby Lobby (corporate moral standing expanded beyond profit); August 2019 — Business Roundtable statement abandoning shareholder primacy. Each point annotated with one sentence stating what shifted. Reader should notice the arc is not linear decline but a hundred-year argument still in progress.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono 
-
-> Reference implementation: `d3/04-three-special-stakeholders-society-the-environment-and-government-fig-02.html`
-
----
-
-### Figure 4.3 — Single-bar comparison chart
-
-Create a standalone D3 v7 HTML file for Figure Single-bar comparison chart. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Single-bar comparison chart. Left bar: "$500,000 — cost of acoustic shutoff valve per well." Right bar: "$65,000,000,000+ — total cost of Deepwater Horizon spill (settlements, fines, environmental damages, long-tail claims)." Scale is logarithmic to make both bars legible. Caption: "The deferred investment and its consequence, at scale." Reader should notice the 130,000x ratio — this is the quantitative form of the chapter's central argument about what it costs to treat a stakeholder as background.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
-
-> Reference implementation: `d3/04-three-special-stakeholders-society-the-environment-and-government-fig-03.html`

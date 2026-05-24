@@ -168,7 +168,6 @@ The single sentence that carries forward: loyalty is not silence, and the duty o
 
 **Exercise 7.8.** *Open-ended.* The chapter argues that the whistleblower legal regime — approximately twenty statutes, no comprehensive federal law — is "inadequate to its stated purpose." Design a comprehensive federal whistleblower statute for private-sector employees. Specify: the categories of covered misconduct, the evidence threshold required to file, the anti-retaliation protections and how they would be enforced, the reward structure (if any), and the mechanism for adjudicating disputed claims. Then identify the strongest argument against your design — from the employer's perspective, from a public-policy perspective, or both. The submission should be 1,500–2,000 words. No fabrication: any empirical claims must be traceable to named sources. Difficulty: hardest.
 
-
 ---
 
 ## LLM Exercises
@@ -198,37 +197,3 @@ Who is Sherron Watkins, and how does her Enron whistleblowing connect to what em
 - Ask it to compare Watkins's case with one more recent whistleblower (Frances Haugen, Edward Snowden) — what carries over, what differs?
 
 What changes? What gets better? What gets worse?
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 7.1 — A two-column ledger layout
-
-Create a standalone D3 v7 HTML file for Figure A two-column ledger layout. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A two-column ledger layout. Left column header: "Duties owed to the employer." Rows: loyal and faithful service; confidentiality of trade secrets and internal information; brand-consistent conduct; financial integrity (no insider trading, no bribery). Right column header: "Duties owed beyond the employer." Rows: honesty in regulatory and securities filings; non-participation in ongoing fraud; disclosure obligations under whistleblower statutes; duties to shareholders, employees, and the public harmed by active wrongdoing. A bold center dividing line. Caption beneath: "The chapter's central tension — when the two columns disagree, the employee must choose." Reader should notice that both columns contain real obligations; the difficulty is not choosing between duty and cowardice, but between two genuine duties.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrativ
-
-> Reference implementation: `d3/07-what-employees-owe-employers-fig-01.html`
-
----
-
-### Figure 7.2 — A three-panel diagram tracing the erosion of long-tenure
-
-Create a standalone D3 v7 HTML file for Figure A three-panel diagram tracing the erosion of long-tenure. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A three-panel diagram tracing the erosion of long-tenure loyalty norms. Panel 1 — "At-will employment": 85% of U.S. private-sector workers; caption "The firm's commitment to the employee is conditional by law." Panel 2 — "Defined-benefit → defined-contribution": timeline bar 1940s–1970s (pension, rewarded tenure) vs. 1980s–present (401(k), portable assets); caption "The financial reward for staying was eliminated." Panel 3 — "Mobility as norm": Glassdoor data point — job-changers earn ~5 percentage points higher annual salary increases; caption "The rational strategy inside this labor market is departure." Footer note: "All three shifts were initiated by employers, not employees." Reader should notice the asymmetry: the firm retained the legal duty of loyalty while eliminating the structural conditions that made mutual long-tenure loyalty viable.. Use the described data shape and l
-
-> Reference implementation: `d3/07-what-employees-owe-employers-fig-02.html`
-
----
-
-### Figure 7.3 — A decision-tree flowchart for the whistleblower sequence
-
-Create a standalone D3 v7 HTML file for Figure A decision-tree flowchart for the whistleblower sequence. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A decision-tree flowchart for the whistleblower sequence. Node 1: "Employee discovers possible violation." Branch: "Is the internal reporting channel compromised?" → Yes: go to Node 3. → No: go to Node 2. Node 2: "Report internally, in writing, with documentation." Branch: "Does the firm remediate?" → Yes: "Document resolution. Matter closed." → No: go to Node 3. Node 3: "Internal channel exhausted or compromised — evaluate external disclosure." Sub-branches: "Identify applicable statute (FCA, SOX, Dodd-Frank, sector-specific)"; "Consult a whistleblower attorney"; "Assess evidence threshold for credible disclosure"; "Assess personal capacity for career disruption." Terminal node: "File with relevant agency, with documentary record of internal failure." Caption: "The sequence is not courtesy — it is the evidentiary foundation the legal protections require." Reader should notice the 
-
-> Reference implementation: `d3/07-what-employees-owe-employers-fig-03.html`
