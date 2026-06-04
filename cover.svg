@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2560" width="1600" height="2560" preserveAspectRatio="xMidYMid meet" shape-rendering="geometricPrecision">
+  <g id="background"><rect x="0" y="0" width="1600" height="2560" fill="#F5C518"/></g>
+  <g id="symbol-fragments" transform="rotate(6, 800, 830)">
+    <polygon points="465,965 448,741 553,642 803,435 1072,516 1138,691 1146,925 819,928" fill="#111111"/>
+    <polygon points="981,952 745,886 607,818 530,711 696,580 870,492 1134,613 1130,829" fill="#F5C518"/>
+    <polygon points="769,870 655,832 560,722 679,660 794,583 932,672 968,754 948,887" fill="#111111"/>
+    <polygon points="783,832 684,804 643,734 737,685 810,641 916,678 905,732 871,793" fill="#F5C518"/>
+    <polygon points="690,713 728,639 798,609 858,658 870,752 779,764" fill="#D62B2B"/>
+  </g>
+  <g id="title-letterforms">
+    <text x="120" y="1510" font-family="Arial Black, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="0" fill="#111111" textLength="1300" lengthAdjust="spacingAndGlyphs">BUSINESS</text>
+    <text x="120" y="1768" font-family="Arial Black, Arial, sans-serif" font-size="250" font-weight="900" letter-spacing="0" fill="#D62B2B" textLength="1300" lengthAdjust="spacingAndGlyphs">ETHICS</text>
+  </g>
+</svg>
