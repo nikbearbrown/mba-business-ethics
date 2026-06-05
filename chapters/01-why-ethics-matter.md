@@ -1,4 +1,11 @@
 # Chapter 1 — Why Ethics Matter
+
+## TL;DR
+
+- In the summer of 2017, three executives at Equifax — a company that held the financial fingerprints of almost half of all American adults — quietly sold nearly two million dollars of company stock.
+- The chapter moves through What ethics actually is, The cashier, Three lenses for one decision, The long game, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The Law Is the Floor. Ethics Is What You Build Above It.*
 
 In the summer of 2017, three executives at Equifax — a company that held the financial fingerprints of almost half of all American adults — quietly sold nearly two million dollars of company stock. They sold it after learning, in an internal briefing, that hackers had been inside the company's servers since May. They sold it before telling the public. The public found out on September 7. The share price fell about fourteen percent. Within three weeks, the chief executive had resigned.
@@ -190,8 +197,7 @@ The common mistake to watch for is the sophisticated-sounding shrug: *it depends
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 The ideas in this chapter didn't appear from nowhere. **Mary Parker Follett** was an early-20th-century American organizational theorist who argued — decades before "business ethics" was a field — that conflict in firms should be resolved by *integration*, not domination or compromise. Peter Drucker called her the "prophet of management."
 
 **Run this:**

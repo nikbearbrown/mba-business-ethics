@@ -1,5 +1,12 @@
 # Chapter 8 — Recognizing and Respecting the Rights of All
 
+
+## TL;DR
+
+- The rights in this chapter did not arrive from a benevolent legislature.
+- The chapter moves through The case for diverse workforces, The accommodation problem, Economic dignity and rights beyond the contract, The common thread, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The rights in this chapter did not arrive from a benevolent legislature. They arrived from specific people who absorbed years of personal cost to produce them.*
 
 ---
@@ -141,9 +148,12 @@ Aimee Stephens did not live to see the protection her case produced. The firms t
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 The ideas in this chapter didn't appear from nowhere. **Sojourner Truth** delivered her "Ain't I a Woman?" speech at the 1851 Women's Rights Convention in Ohio — extending the language of rights and dignity to both Black people and women in a country that excluded both. Her insistence on intersecting rights claims still shapes modern business-ethics frameworks on inclusion.
+
+![Sojourner Truth](../images/sojourner-truth-afq.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
 
 **Run this:**
 

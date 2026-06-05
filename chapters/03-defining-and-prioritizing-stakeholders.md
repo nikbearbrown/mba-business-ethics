@@ -1,5 +1,12 @@
 # Chapter 3 — Defining and Prioritizing Stakeholders
 
+
+## TL;DR
+
+- On whom you owe what, and how to know before it becomes expensive to find out.
+- The chapter moves through What a stakeholder actually is, The first cut: what kind of role do they play?, The second cut: how aware of the issue are they?, The ethical minimum, the ethical maximum, and the gap between them, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *On whom you owe what, and how to know before it becomes expensive to find out.*
 
 ---
@@ -221,8 +228,7 @@ The single idea that matters most: stakeholders are specific. *Customers* is not
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 The ideas in this chapter didn't appear from nowhere. **R. Edward Freeman** published *Strategic Management: A Stakeholder Approach* in 1984 — the book that established stakeholder theory as a serious alternative to Friedman's shareholder primacy. The framework you used to identify and prioritize stakeholders in this chapter is essentially his.
 
 **Run this:**

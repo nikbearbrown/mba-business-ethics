@@ -1,4 +1,11 @@
 # Chapter 4 — Three Special Stakeholders: Society, the Environment, and Government
+
+## TL;DR
+
+- The Stakeholders Nobody Put in the Room Are the Ones Who End Up in the Headlines.
+- The chapter moves through Society and the firm's unwritten bargain, The environment and the problem of the invisible ledger, Government and the problem of capture, What the three failures have in common, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The Stakeholders Nobody Put in the Room Are the Ones Who End Up in the Headlines.*
 
 In the early hours of August 19, 2006, a contractor called Compagnie Tommy began discharging several hundred tons of toxic slurry at open dumping sites in and around Abidjan, the largest city in Côte d'Ivoire. By morning, residents were waking up to the distinctive rot smell of hydrogen sulfide and to symptoms: nausea, vomiting, breathing difficulty, miscarriages. Over the following weeks, more than one hundred thousand residents sought medical attention. Fifteen people died.
@@ -164,8 +171,7 @@ The single idea that carries forward: these three stakeholders cannot be backgro
 **Exercise 4-LLM-3.** Ask an AI assistant to construct the strongest case that *no firm has any obligation* beyond shareholder value to society, the environment, or government — the Friedman position in its sharpest form. Then ask it to construct the strongest case that *the firm's obligations to these three stakeholders are equivalent to its obligations to shareholders*. Compare the two arguments. Identify where the AI's framing favors one position over the other. Then ask: which position has the more defensible empirical foundation in current scholarship, and what evidence would force a reasonable person to update?
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 The ideas in this chapter didn't appear from nowhere. **Donella Meadows** was the lead author of *The Limits to Growth* in 1972 — the systems-dynamics modeling study that put environmental constraint at the center of how serious people thought about long-term business and government policy. Her work made stakeholders out of ecosystems.
 
 **Run this:**

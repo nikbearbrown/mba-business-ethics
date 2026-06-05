@@ -1,5 +1,12 @@
 # Chapter 5 — The Impact of Culture and Time on Business Ethics
 
+
+## TL;DR
+
+- What counts as right behavior has changed before.
+- The chapter moves through How culture gets inside business, How time shapes ethics, Geography, religion, and what they carry, What survives translation — and what doesn't, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *What counts as right behavior has changed before. It is changing now. The honest practitioner plans for that.*
 
 ---
@@ -174,8 +181,7 @@ That discipline is what this chapter is for.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 The ideas in this chapter didn't appear from nowhere. **Geert Hofstede** spent the 1970s studying IBM employees across 50 countries — producing the cultural-dimensions framework (power distance, individualism, uncertainty avoidance) that taught a generation of multinational managers to recognize that their assumptions weren't universal.
 
 **Run this:**

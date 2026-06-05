@@ -1,4 +1,11 @@
 # Chapter 10 — Changing Work Environments and Future Trends
+
+## TL;DR
+
+- In a McDonald's in suburban Chicago, in 2017, a customer walks up to a touchscreen kiosk, customizes her order, swipes a card, and receives a number.
+- The chapter moves through Flexibility and its trade-offs, Displacement at scale, AI, accountability, and the questions without settled answers, What the three transitions have in common, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *Technology Is the Mechanism. Distribution Is the Ethics.*
 
 In a McDonald's in suburban Chicago, in 2017, a customer walks up to a touchscreen kiosk, customizes her order, swipes a card, and receives a number. Ninety seconds. No human cashier involved. The kiosk cost the restaurant approximately $35,000 to install. A human cashier at the federal minimum wage costs approximately $15,000 per year in direct wages, plus about thirty percent more in payroll taxes and benefits. The kiosk pays for itself in roughly eighteen months. After that, it earns the restaurant pure margin.
@@ -179,8 +186,7 @@ The transitions will happen. They are happening. The ethical question is not whe
 **Exercise 10-LLM-3.** Ask an AI assistant to identify a specific contemporary AI-deployment decision in a high-stakes domain (hiring, lending, medical triage, criminal-justice risk assessment, military targeting) and to apply the chapter's accountability framework. Have it identify who is accountable for which kinds of failure, what evidence would be needed to assign responsibility, and where the current accountability infrastructure has gaps. Evaluate whether the AI engages with the specific accountability question (who is liable when the system fails, and on what grounds) or defaults to general calls for "human oversight" without specifying what oversight produces what outcome.
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 The ideas in this chapter didn't appear from nowhere. **Shoshana Zuboff** wrote *In the Age of the Smart Machine* in 1988 — the first serious account of how digital surveillance would transform the workplace, decades before "surveillance capitalism" became a household phrase. Her later work made the case explicit.
 
 **Run this:**

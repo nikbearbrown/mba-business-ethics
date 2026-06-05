@@ -1,5 +1,12 @@
 # Chapter 6 — What Employers Owe Employees
 
+
+## TL;DR
+
+- On the distance between what the law extracts and what a firm actually owes.
+- The chapter moves through The legal floor: four pillars and what they cover, What the law cannot reach: harassment and operative culture, What the law doesn't set: wages and four gaps, What the law permits but ethics constrains: privacy, voice, due process, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *On the distance between what the law extracts and what a firm actually owes.*
 
 ---
@@ -195,8 +202,7 @@ The single idea that matters most: the legal regime is the floor, not the ceilin
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 The ideas in this chapter didn't appear from nowhere. **Crystal Eastman** drafted the first US workers' compensation law in 1909 — after her own investigation into workplace deaths in Pittsburgh steel mills proved that "industrial accidents" were predictable and preventable. She co-founded the ACLU.
 
 **Run this:**

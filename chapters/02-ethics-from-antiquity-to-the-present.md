@@ -1,5 +1,12 @@
 # Chapter 2 — Ethics from Antiquity to the Present
 
+
+## TL;DR
+
+- This chapter gives a working overview of Ethics from Antiquity to the Present, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through The First Tool: Character, The Second Tool: Consequences, The Third Tool: Duty, The Fourth Tool: Fairness, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The question is 2,400 years old. The tools for answering it are what's new.*
 
 ---
@@ -175,8 +182,7 @@ The thick details — what counts as *fair*, who is owed special duties, when an
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 The ideas in this chapter didn't appear from nowhere. **Hsün Tzu** (Xunzi) was a 3rd-century BCE Chinese Confucian philosopher who argued that human nature is intrinsically bad and must be shaped by ritual and ethical institutions — a view very different from the prevailing Confucian "human nature is good" school of Mencius. The debate is the foundation of two thousand years of East Asian ethics.
 
 **Run this:**

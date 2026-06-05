@@ -1,5 +1,12 @@
 # Chapter 9 — Professions Under the Microscope
 
+
+## TL;DR
+
+- On why the same failure keeps appearing in different industries, wearing different clothes.
+- The chapter moves through The founder-culture paradox, Advertising and the asymmetry of persuasion, Insurance, healthcare, and the structural problem of catastrophic risk, What the three concepts share, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *On why the same failure keeps appearing in different industries, wearing different clothes.*
 
 ---
@@ -156,8 +163,7 @@ The single idea that matters most: the pressures in each sector are predictable,
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 The ideas in this chapter didn't appear from nowhere. **Abraham Flexner** wrote the 1910 report that reshaped American medical education — closing roughly half of US medical schools, including most that admitted women, Black students, and immigrants. The report set the template for the modern professionalized field — for better and worse.
 
 **Run this:**

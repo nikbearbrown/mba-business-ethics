@@ -1,4 +1,11 @@
 # Chapter 7 — What Employees Owe Employers
+
+## TL;DR
+
+- In August of 2001, an Enron officer named Sherron Watkins finished reading a set of internal accounting documents and understood, for the first time clearly, that the company she worked for was hiding several billion...
+- The chapter moves through The duty of loyalty and what has happened to it, Daily conduct: what loyalty looks like on a Tuesday, The breaking point, The structure of the problem, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *Loyalty Is Not Silence.*
 
 In August of 2001, an Enron officer named Sherron Watkins finished reading a set of internal accounting documents and understood, for the first time clearly, that the company she worked for was hiding several billion dollars in losses inside off-balance-sheet entities her own department had helped construct. She wrote a memo to the chairman, Kenneth Lay, identifying the irregularities by name, naming the responsible parties, and predicting — accurately — that the company would "implode in a wave of accounting scandals." Lay convened a meeting. The meeting produced an investigation conducted by the same law firm that had structured the questioned transactions. The investigation concluded that the transactions were defensible.
@@ -179,8 +186,7 @@ The single sentence that carries forward: loyalty is not silence, and the duty o
 **Exercise 7-LLM-3.** Ask an AI assistant to walk the breaking-point analysis from this chapter on a specific real whistleblower case — the Frances Haugen / Facebook disclosures, the Theranos disclosures, or a more recent case. Have it identify the specific moment at which the employee's continued loyalty would have crossed into complicity, and the structural conditions that should have surfaced the problem before that moment. Evaluate whether the AI's analysis is mechanistic and specific to the case's facts, or whether it defaults to general principles about whistleblower protection.
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 The ideas in this chapter didn't appear from nowhere. **Sherron Watkins** was the Enron vice president whose internal memo to Ken Lay in 2001 warned that the company would "implode in a wave of accounting scandals." Her letter became the textbook example of an employee navigating the duty of loyalty versus the duty of disclosure.
 
 **Run this:**

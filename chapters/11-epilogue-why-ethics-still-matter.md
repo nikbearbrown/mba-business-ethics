@@ -1,4 +1,11 @@
 # Chapter 11 — Epilogue: Why Ethics Still Matter
+
+## TL;DR
+
+- The Boundary Moves One Exposure at a Time.
+- The chapter moves through The slow erosion, in three cases, How firms go wrong and how they don't, The personal mission statement, The apparatus, one last time, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The Boundary Moves One Exposure at a Time.*
 
 In 2009, Rajat Gupta picked up a telephone shortly after a Goldman Sachs board meeting and called Raj Rajaratnam, a hedge-fund manager and longtime personal friend. What had just been discussed in the boardroom — Warren Buffett's impending $5 billion investment in Goldman — was not yet public. Rajaratnam traded Goldman stock ahead of the announcement. The trades produced approximately $1 million in profit. Gupta personally received nothing.
@@ -168,9 +175,12 @@ That is all.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 The ideas in this chapter didn't appear from nowhere. **Amartya Sen** built the "capability approach" to ethics and economics over four decades — arguing that human well-being should be measured by what people are capable of doing and being, not just what they consume. He won the 1998 Nobel Prize in Economics and reshaped both development economics and business ethics.
+
+![Amartya Sen](../images/amartya-sen-1n9.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
 
 **Run this:**
 
